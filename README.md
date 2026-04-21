@@ -1,4 +1,3 @@
-House Price Prediction
 Project Overview
 This project focuses on predicting house prices using Machine Learning techniques. The model analyzes various features such as area, number of rooms, location, amenities, and other factors to estimate property prices accurately.
 
