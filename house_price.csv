@@ -1,0 +1,601 @@
+house_id,area_sqft,lot_size,bedrooms,bathrooms,floors,age_years,location,distance_to_city_km,furnishing_status,property_type,balcony_count,facing_direction,water_supply_type,power_backup,society_rating,builder_rating,renovation_status,crime_rate,price
+1,1360,4174,5,2,2,16,Rural,24.0,Fully-Furnished,Independent House,3,South,Borewell,Partial,3.7,4.4,Not Renovated,3.91,6203888
+2,4272,7862,2,2,2,6,Rural,25.76,Semi-Furnished,Villa,3,North,Both,None,3.6,1.8,Recently Renovated,3.91,23122634
+3,3592,4078,2,1,3,20,Urban,8.02,Semi-Furnished,Apartment,3,South,Borewell,Full,3.9,1.3,Not Renovated,4.14,24381331
+4,966,2052,1,4,2,19,Rural,28.86,Unfurnished,Independent House,1,South,Municipal,None,2.1,3.8,Not Renovated,4.49,1708880
+5,4926,7796,5,3,3,25,Rural,6.71,Unfurnished,Independent House,1,North,Municipal,None,2.3,2.6,Renovated,1.68,22178091
+6,3944,4781,3,1,2,3,Rural,28.59,Fully-Furnished,Apartment,3,South,Municipal,None,1.5,4.7,Not Renovated,1.51,16005526
+7,3671,5473,5,2,3,13,Suburban,29.85,Fully-Furnished,Apartment,2,East,Municipal,Partial,3.6,3.6,Renovated,2.59,23842328
+8,3419,2922,3,4,3,19,Rural,21.64,Unfurnished,Villa,1,North,Borewell,Full,1.2,1.4,Recently Renovated,1.69,16511470
+9,630,5330,4,1,2,21,Urban,29.45,Semi-Furnished,Villa,2,North,Municipal,Full,3.4,4.8,Renovated,3.8,900910
+10,2185,2950,5,3,1,14,Suburban,17.52,Semi-Furnished,Villa,2,South,Municipal,Partial,4.5,2.0,Recently Renovated,3.36,18487918
+11,1269,5659,4,1,2,23,Urban,8.53,Semi-Furnished,Apartment,0,South,Both,Full,4.6,2.3,Not Renovated,4.44,9166395
+12,2891,7681,2,3,3,7,Rural,13.67,Unfurnished,Independent House,3,North,Municipal,None,2.8,2.6,Recently Renovated,0.87,12539921
+13,2933,7749,2,2,1,20,Suburban,18.21,Semi-Furnished,Independent House,0,East,Both,Full,2.8,1.2,Recently Renovated,4.62,17212077
+14,1684,2129,1,4,2,14,Urban,3.12,Fully-Furnished,Villa,3,South,Municipal,Partial,1.3,3.0,Not Renovated,1.82,21360743
+15,3885,7041,5,4,2,21,Rural,19.05,Fully-Furnished,Apartment,3,South,Municipal,None,3.7,1.5,Recently Renovated,2.71,16825874
+16,4617,7741,4,4,2,19,Urban,29.45,Unfurnished,Independent House,2,West,Both,Partial,4.3,2.6,Not Renovated,2.47,36010822
+17,3404,2158,3,2,1,27,Urban,6.51,Fully-Furnished,Villa,3,East,Municipal,None,2.0,2.4,Renovated,3.92,39486818
+18,974,7802,2,3,3,13,Urban,23.99,Unfurnished,Independent House,2,East,Borewell,None,2.7,4.1,Not Renovated,2.39,4999570
+19,1582,3282,2,2,2,26,Rural,27.33,Semi-Furnished,Independent House,2,North,Borewell,Full,4.4,4.2,Not Renovated,4.75,5437191
+20,3058,5342,3,4,2,28,Rural,28.37,Semi-Furnished,Apartment,3,East,Municipal,None,4.5,1.6,Recently Renovated,4.56,10462006
+21,2547,2817,4,2,2,8,Urban,28.84,Semi-Furnished,Apartment,2,North,Borewell,Partial,2.0,2.5,Renovated,4.42,15378962
+22,3247,2131,4,2,2,7,Suburban,16.12,Fully-Furnished,Independent House,2,West,Both,Full,3.2,2.5,Not Renovated,0.82,26859697
+23,1475,5144,5,2,2,25,Suburban,29.34,Unfurnished,Villa,2,East,Municipal,Partial,1.8,1.6,Renovated,4.34,7336968
+24,2306,5061,5,3,3,27,Rural,22.96,Semi-Furnished,Apartment,1,South,Municipal,None,1.4,4.2,Renovated,4.02,7758999
+25,689,7927,1,1,3,25,Rural,5.69,Unfurnished,Independent House,2,West,Both,Partial,4.6,3.8,Recently Renovated,0.97,3516385
+26,3234,2158,2,1,2,16,Rural,14.83,Semi-Furnished,Apartment,1,North,Both,Partial,4.3,1.8,Not Renovated,0.98,12256677
+27,3505,5915,5,2,1,1,Rural,21.83,Fully-Furnished,Apartment,1,West,Both,None,4.0,2.5,Recently Renovated,0.96,16715258
+28,2399,5437,4,1,3,24,Rural,8.17,Fully-Furnished,Apartment,2,North,Municipal,Full,1.2,1.4,Not Renovated,0.55,10507299
+29,1767,5654,3,1,1,23,Suburban,19.58,Unfurnished,Independent House,2,West,Both,Partial,4.4,3.5,Renovated,2.97,8242285
+30,2028,3977,4,2,3,29,Rural,20.33,Fully-Furnished,Villa,1,North,Both,None,2.8,1.5,Not Renovated,4.88,9704293
+31,3702,2928,2,2,2,2,Urban,5.72,Fully-Furnished,Villa,1,East,Borewell,Full,2.4,4.9,Not Renovated,2.47,48560373
+32,4056,2980,4,4,3,7,Urban,17.39,Unfurnished,Villa,2,South,Borewell,Full,3.2,4.1,Renovated,2.93,41610607
+33,4390,5692,1,1,2,11,Suburban,23.38,Semi-Furnished,Apartment,2,North,Municipal,Full,1.4,2.6,Renovated,4.86,23369647
+34,1146,7843,2,3,3,0,Urban,15.47,Fully-Furnished,Independent House,3,West,Borewell,Partial,4.0,3.3,Not Renovated,1.65,12502205
+35,3388,937,3,2,2,9,Suburban,1.35,Unfurnished,Apartment,1,North,Borewell,Partial,3.3,4.6,Recently Renovated,4.36,19310305
+36,2935,7127,1,4,2,19,Suburban,1.26,Fully-Furnished,Villa,1,North,Both,Partial,1.7,3.2,Not Renovated,2.96,30495903
+37,1100,4272,2,3,2,2,Urban,11.35,Fully-Furnished,Villa,3,North,Both,Full,1.8,1.7,Renovated,3.06,12709370
+38,2863,6249,3,1,2,5,Rural,27.86,Fully-Furnished,Independent House,1,West,Borewell,Partial,1.7,2.5,Recently Renovated,2.04,13068552
+39,2561,3632,1,4,1,6,Urban,7.63,Fully-Furnished,Apartment,0,South,Borewell,None,1.2,4.4,Renovated,3.03,21550398
+40,741,4379,1,2,2,19,Urban,19.4,Unfurnished,Villa,1,East,Borewell,Partial,3.4,3.6,Renovated,0.83,4520145
+41,2541,6771,2,3,1,22,Suburban,7.44,Unfurnished,Independent House,3,South,Municipal,Partial,4.4,3.6,Recently Renovated,3.94,16423998
+42,3324,3831,5,2,1,24,Urban,10.33,Unfurnished,Apartment,0,North,Municipal,Full,1.1,4.5,Renovated,1.78,22696742
+43,3112,4964,1,1,2,26,Suburban,25.59,Fully-Furnished,Apartment,2,West,Municipal,Partial,1.2,4.6,Renovated,4.49,15962158
+44,1863,3393,1,3,1,17,Rural,22.14,Fully-Furnished,Villa,3,South,Borewell,None,3.3,4.7,Renovated,2.16,10089195
+45,1978,6996,3,1,3,10,Rural,3.77,Fully-Furnished,Villa,3,North,Borewell,Full,4.3,1.4,Renovated,1.14,14723879
+46,3056,6369,4,1,2,18,Rural,13.43,Unfurnished,Apartment,2,East,Municipal,None,2.3,3.2,Renovated,3.63,9909681
+47,1275,5100,2,4,1,4,Urban,1.85,Fully-Furnished,Apartment,3,East,Municipal,Full,2.4,4.0,Renovated,1.24,14108006
+48,4514,7069,2,2,2,18,Suburban,14.95,Semi-Furnished,Villa,1,East,Borewell,Full,3.4,4.0,Renovated,3.89,37627098
+49,534,4618,5,3,2,10,Rural,20.21,Fully-Furnished,Apartment,2,North,Both,Partial,2.1,3.4,Renovated,4.86,1172245
+50,3652,4938,5,1,2,23,Suburban,4.44,Semi-Furnished,Villa,3,West,Municipal,None,1.1,1.7,Renovated,4.01,31910769
+51,2455,4623,2,1,1,11,Suburban,9.38,Fully-Furnished,Apartment,2,South,Borewell,Full,3.9,4.2,Not Renovated,0.6,16036191
+52,2085,4842,5,3,3,9,Rural,12.54,Unfurnished,Villa,2,East,Borewell,Partial,3.5,3.9,Not Renovated,3.2,12894985
+53,4443,2706,3,1,3,7,Rural,27.67,Fully-Furnished,Independent House,2,North,Both,Full,3.3,1.3,Renovated,3.63,21880349
+54,3573,7054,2,4,1,23,Suburban,29.8,Semi-Furnished,Villa,0,North,Borewell,Full,4.0,2.9,Not Renovated,4.21,26808394
+55,1521,1560,5,4,2,27,Rural,2.3,Semi-Furnished,Villa,3,South,Borewell,Full,3.7,1.7,Recently Renovated,0.75,9977177
+56,3961,7791,2,4,1,27,Suburban,23.07,Fully-Furnished,Independent House,0,East,Municipal,Full,1.8,2.3,Not Renovated,2.66,27696604
+57,3113,7038,4,4,1,8,Suburban,11.78,Semi-Furnished,Apartment,3,North,Municipal,Full,2.4,1.1,Renovated,2.91,18949739
+58,4343,6890,1,1,1,3,Rural,12.38,Semi-Furnished,Independent House,1,South,Both,Full,1.5,2.6,Renovated,1.26,19869615
+59,2000,4245,2,3,2,4,Urban,22.87,Unfurnished,Villa,1,West,Both,Partial,1.5,3.2,Not Renovated,1.95,17002717
+60,661,6831,1,3,1,20,Rural,27.63,Fully-Furnished,Apartment,1,West,Borewell,Full,3.7,3.5,Renovated,2.48,-67714
+61,4797,1699,5,3,2,7,Urban,28.58,Fully-Furnished,Independent House,3,West,Municipal,None,4.4,3.7,Recently Renovated,4.25,46506577
+62,2481,5255,1,3,1,22,Suburban,17.74,Fully-Furnished,Apartment,2,East,Both,Partial,4.9,4.3,Recently Renovated,4.68,13616605
+63,1495,3747,2,2,3,8,Suburban,11.36,Semi-Furnished,Apartment,2,South,Both,None,3.5,1.9,Renovated,3.33,8973313
+64,3842,2519,4,3,1,14,Urban,23.84,Fully-Furnished,Independent House,0,South,Both,Full,1.7,1.5,Recently Renovated,2.28,36211269
+65,4298,1080,5,2,1,14,Suburban,8.28,Fully-Furnished,Apartment,0,North,Borewell,None,1.4,4.4,Recently Renovated,1.64,29782767
+66,1775,4066,2,2,3,15,Urban,17.36,Unfurnished,Independent House,1,North,Municipal,Full,4.3,1.6,Not Renovated,4.92,12022677
+67,1516,2687,5,4,2,13,Urban,11.4,Unfurnished,Villa,0,North,Both,Full,3.3,4.9,Recently Renovated,4.92,17203603
+68,837,4066,3,2,2,7,Suburban,20.04,Unfurnished,Apartment,3,South,Municipal,Partial,3.5,4.4,Not Renovated,4.66,3544679
+69,1378,1466,1,1,1,17,Urban,7.97,Semi-Furnished,Villa,3,North,Both,Partial,4.1,3.0,Renovated,4.04,12902181
+70,1576,4988,3,2,3,9,Rural,6.56,Fully-Furnished,Villa,0,South,Both,Full,3.8,4.9,Not Renovated,1.97,11925763
+71,4493,1471,2,4,2,27,Rural,27.63,Unfurnished,Apartment,0,South,Municipal,Partial,4.3,1.4,Renovated,4.18,13716030
+72,879,2769,4,2,1,19,Suburban,3.95,Unfurnished,Independent House,0,West,Municipal,None,1.2,2.2,Renovated,2.34,5360164
+73,992,4956,5,1,3,5,Suburban,15.67,Unfurnished,Apartment,0,North,Municipal,Partial,4.0,3.6,Renovated,1.97,6746164
+74,2562,7577,1,1,2,11,Urban,7.4,Fully-Furnished,Villa,1,West,Borewell,Partial,4.4,2.4,Renovated,3.85,30443805
+75,4384,3922,5,1,2,1,Urban,2.13,Fully-Furnished,Villa,1,East,Both,None,2.1,4.7,Renovated,0.86,61529100
+76,564,5924,2,4,3,6,Urban,2.04,Fully-Furnished,Independent House,0,East,Borewell,Partial,3.6,1.3,Not Renovated,0.72,8513376
+77,3068,6385,5,4,3,15,Urban,6.08,Semi-Furnished,Apartment,3,East,Municipal,Full,2.3,3.2,Renovated,2.52,24575724
+78,2527,5499,1,3,3,2,Rural,26.14,Semi-Furnished,Villa,1,South,Both,None,4.8,3.4,Recently Renovated,2.51,14867608
+79,3195,5577,2,4,3,12,Rural,9.19,Unfurnished,Villa,3,South,Borewell,Full,1.1,3.6,Recently Renovated,4.53,16376401
+80,1995,4700,5,1,1,2,Suburban,28.56,Fully-Furnished,Villa,2,South,Both,None,3.3,2.0,Renovated,1.07,19269922
+81,891,7477,4,1,3,26,Urban,17.87,Unfurnished,Independent House,3,North,Borewell,Full,1.7,2.5,Recently Renovated,1.05,4787597
+82,4974,6324,2,4,2,17,Urban,13.66,Fully-Furnished,Villa,0,West,Municipal,Full,3.8,4.4,Not Renovated,1.16,63432781
+83,4061,7781,2,2,2,10,Suburban,17.82,Fully-Furnished,Villa,2,South,Borewell,Partial,1.7,1.8,Not Renovated,0.63,39631665
+84,2778,7588,4,4,1,7,Urban,15.98,Fully-Furnished,Apartment,1,West,Both,Full,1.9,4.3,Renovated,0.82,24867383
+85,3599,7176,3,4,2,5,Urban,23.0,Semi-Furnished,Apartment,1,West,Both,Partial,3.0,3.3,Renovated,3.47,25395021
+86,700,1323,1,1,2,0,Urban,9.19,Semi-Furnished,Villa,2,West,Both,None,4.7,4.0,Renovated,2.44,8391254
+87,3604,3193,3,3,3,27,Urban,11.24,Fully-Furnished,Villa,3,North,Both,Full,1.8,3.9,Recently Renovated,3.94,42656910
+88,2954,3917,5,1,2,0,Urban,26.93,Unfurnished,Apartment,1,North,Municipal,Full,1.6,1.8,Recently Renovated,4.97,18575185
+89,4145,3393,4,3,1,22,Suburban,28.45,Fully-Furnished,Independent House,0,East,Borewell,None,4.0,3.3,Not Renovated,3.47,29515037
+90,1304,2768,3,1,3,7,Urban,26.88,Fully-Furnished,Independent House,2,East,Municipal,None,3.0,4.5,Recently Renovated,0.73,9856136
+91,3231,5997,2,4,3,4,Suburban,13.16,Unfurnished,Independent House,0,West,Municipal,Full,4.6,2.7,Not Renovated,0.97,21098613
+92,3273,2553,5,1,1,27,Urban,23.63,Fully-Furnished,Independent House,2,East,Municipal,None,1.6,4.9,Recently Renovated,4.46,28018909
+93,2070,6732,5,1,3,15,Rural,14.81,Unfurnished,Independent House,1,West,Both,Partial,3.6,2.8,Not Renovated,2.87,9072601
+94,3190,7737,3,1,3,10,Rural,15.43,Semi-Furnished,Independent House,3,North,Both,None,1.9,1.6,Renovated,4.21,14158341
+95,4340,3096,3,4,1,4,Rural,6.94,Semi-Furnished,Independent House,2,North,Both,None,1.6,2.6,Recently Renovated,4.35,20835256
+96,1528,6990,4,4,3,3,Rural,18.14,Unfurnished,Independent House,2,North,Borewell,Full,3.7,4.8,Not Renovated,4.67,6810394
+97,1002,6040,1,4,1,29,Suburban,6.4,Semi-Furnished,Apartment,0,South,Both,Partial,3.4,2.3,Recently Renovated,4.77,3865170
+98,4993,3061,3,4,1,5,Suburban,10.62,Semi-Furnished,Independent House,1,West,Borewell,None,4.0,4.5,Renovated,3.0,36548279
+99,1370,3086,3,3,2,13,Urban,25.8,Unfurnished,Independent House,0,North,Both,Partial,2.2,4.5,Not Renovated,2.03,9108133
+100,4988,5975,2,3,2,21,Rural,7.01,Semi-Furnished,Independent House,1,West,Both,Partial,2.8,2.4,Recently Renovated,4.83,23372514
+101,706,7293,5,2,3,18,Suburban,3.06,Fully-Furnished,Villa,0,East,Municipal,Partial,2.6,1.3,Recently Renovated,2.96,8367840
+102,1984,5002,1,4,3,8,Urban,3.0,Fully-Furnished,Apartment,2,East,Municipal,Full,4.9,3.9,Renovated,0.79,20266882
+103,1363,3678,2,3,1,11,Urban,28.28,Unfurnished,Apartment,0,North,Municipal,None,2.2,2.2,Renovated,3.39,6290052
+104,3290,4943,4,1,3,10,Suburban,15.7,Semi-Furnished,Apartment,3,West,Borewell,Full,2.2,4.1,Not Renovated,3.14,19710142
+105,1063,4444,4,4,1,13,Rural,12.87,Fully-Furnished,Independent House,1,North,Borewell,None,2.4,2.8,Recently Renovated,4.53,5413330
+106,4691,5232,3,2,1,22,Urban,24.52,Fully-Furnished,Independent House,1,East,Both,None,3.3,2.9,Recently Renovated,3.44,43538468
+107,2257,5945,3,2,3,15,Rural,25.24,Semi-Furnished,Villa,2,North,Borewell,Full,2.0,4.1,Renovated,2.07,12389631
+108,2178,7747,4,2,1,0,Rural,10.63,Semi-Furnished,Apartment,1,West,Both,Partial,4.7,2.5,Renovated,4.85,8921981
+109,3742,6176,3,1,2,12,Rural,21.11,Fully-Furnished,Independent House,3,East,Borewell,Partial,2.1,2.8,Not Renovated,4.11,17991315
+110,1559,2855,1,3,3,22,Urban,23.36,Fully-Furnished,Apartment,0,South,Borewell,None,4.6,2.5,Recently Renovated,3.34,8528953
+111,2222,5520,3,1,2,20,Rural,19.98,Unfurnished,Villa,2,East,Borewell,Full,1.4,2.5,Recently Renovated,1.82,9324292
+112,3814,6786,5,4,3,20,Urban,5.4,Unfurnished,Villa,3,South,Municipal,Partial,3.6,3.1,Not Renovated,2.18,40831474
+113,3657,2076,3,2,1,29,Rural,26.4,Fully-Furnished,Villa,1,North,Borewell,Partial,4.6,4.2,Not Renovated,3.51,20832016
+114,3125,6611,2,1,3,12,Urban,16.63,Unfurnished,Apartment,1,North,Municipal,None,1.7,2.4,Renovated,0.82,19605118
+115,3229,3566,1,1,2,1,Rural,9.19,Fully-Furnished,Independent House,3,West,Municipal,None,4.9,3.1,Renovated,1.66,17419200
+116,2097,1102,2,3,1,3,Suburban,13.33,Fully-Furnished,Independent House,0,South,Borewell,Full,2.8,3.7,Not Renovated,3.71,16817981
+117,3560,1438,2,3,3,27,Rural,2.09,Unfurnished,Villa,0,North,Both,None,4.8,2.1,Not Renovated,2.66,19453622
+118,3193,855,5,2,3,5,Rural,4.71,Unfurnished,Independent House,2,South,Both,Partial,3.7,2.1,Recently Renovated,2.31,15021737
+119,4127,5621,1,1,3,25,Urban,23.2,Semi-Furnished,Villa,1,North,Both,Partial,2.2,4.7,Not Renovated,1.18,39963443
+120,1863,1325,1,1,2,26,Urban,1.0,Semi-Furnished,Apartment,3,East,Borewell,Partial,1.8,3.9,Not Renovated,2.49,12479818
+121,2481,5369,1,3,2,22,Rural,13.08,Semi-Furnished,Villa,0,North,Both,Partial,2.2,3.3,Recently Renovated,3.97,12501450
+122,2163,4923,1,1,3,26,Suburban,16.15,Fully-Furnished,Apartment,2,West,Municipal,Full,1.4,3.6,Not Renovated,1.69,11029318
+123,2029,2925,1,1,1,4,Suburban,2.58,Unfurnished,Villa,1,East,Both,Full,1.6,1.1,Renovated,0.52,17034952
+124,2538,4087,5,1,1,24,Urban,29.22,Fully-Furnished,Independent House,1,West,Borewell,None,1.4,3.5,Renovated,3.51,19785477
+125,3802,1164,3,3,2,2,Suburban,7.56,Unfurnished,Independent House,2,East,Both,None,2.7,3.0,Recently Renovated,4.88,24677447
+126,2737,7609,2,2,1,0,Rural,9.82,Fully-Furnished,Villa,2,South,Municipal,None,4.2,3.2,Not Renovated,3.23,19350464
+127,1806,5421,1,4,2,3,Urban,9.81,Semi-Furnished,Independent House,0,West,Borewell,Full,1.6,2.4,Renovated,1.04,16977325
+128,4529,7642,3,2,3,24,Rural,7.68,Semi-Furnished,Independent House,3,North,Both,Partial,1.5,1.3,Renovated,1.94,21364857
+129,3175,6231,3,4,2,19,Urban,1.04,Semi-Furnished,Independent House,1,South,Borewell,None,3.6,1.8,Renovated,4.4,28810611
+130,1782,5778,2,1,2,1,Urban,22.15,Fully-Furnished,Apartment,3,North,Borewell,Partial,1.8,4.8,Renovated,1.55,13053286
+131,1209,5926,5,2,3,25,Urban,29.04,Unfurnished,Independent House,1,East,Borewell,None,1.4,2.6,Not Renovated,3.23,5627747
+132,4913,5922,4,4,1,29,Urban,7.5,Unfurnished,Apartment,1,East,Both,None,1.7,2.9,Not Renovated,2.31,32823230
+133,4248,2446,4,3,2,29,Suburban,20.23,Semi-Furnished,Villa,3,North,Borewell,None,4.7,1.2,Not Renovated,1.44,35933375
+134,1163,1718,3,3,2,4,Rural,22.51,Semi-Furnished,Independent House,2,North,Both,None,4.3,1.2,Not Renovated,4.16,4725878
+135,2498,3597,2,2,3,2,Rural,25.6,Semi-Furnished,Independent House,0,South,Municipal,None,2.4,3.9,Renovated,3.84,10420543
+136,3945,7306,4,2,1,28,Rural,13.26,Semi-Furnished,Independent House,1,North,Both,Partial,3.6,3.2,Recently Renovated,3.48,18528185
+137,4243,6670,3,1,2,27,Urban,9.78,Unfurnished,Villa,2,West,Municipal,None,3.1,3.0,Recently Renovated,1.56,41673663
+138,1995,2331,5,2,3,28,Suburban,10.43,Fully-Furnished,Apartment,1,West,Both,Partial,3.7,2.0,Renovated,0.94,13639195
+139,3804,4145,4,1,2,8,Rural,21.67,Fully-Furnished,Apartment,0,North,Borewell,Full,3.7,4.0,Renovated,3.09,16271232
+140,4263,7749,3,1,3,19,Suburban,24.69,Fully-Furnished,Independent House,1,West,Both,None,3.5,1.7,Recently Renovated,2.99,30529967
+141,2353,7682,3,3,1,5,Urban,6.27,Fully-Furnished,Villa,0,North,Borewell,Partial,2.1,1.8,Recently Renovated,1.35,31734301
+142,1791,2706,1,3,1,17,Rural,11.76,Semi-Furnished,Villa,0,South,Municipal,Full,1.2,2.8,Renovated,0.75,8752484
+143,4081,3886,5,4,1,5,Suburban,27.16,Semi-Furnished,Villa,1,West,Both,Full,2.8,2.1,Renovated,0.86,36264908
+144,3957,6111,1,3,1,18,Urban,24.39,Semi-Furnished,Villa,1,West,Borewell,Full,4.6,2.0,Not Renovated,4.97,38487978
+145,2136,6550,2,3,2,27,Suburban,29.56,Fully-Furnished,Villa,0,North,Municipal,Partial,3.3,3.6,Not Renovated,4.03,14745692
+146,4196,5380,1,2,2,11,Rural,22.87,Semi-Furnished,Apartment,2,West,Municipal,None,4.3,3.6,Recently Renovated,4.65,15658507
+147,3499,2875,1,3,1,24,Rural,12.4,Semi-Furnished,Apartment,3,East,Both,None,5.0,4.3,Renovated,1.38,13283783
+148,3652,1513,4,4,1,10,Urban,18.13,Unfurnished,Apartment,0,South,Municipal,Partial,1.7,2.7,Recently Renovated,4.82,22627114
+149,1198,1862,3,2,1,1,Urban,20.17,Unfurnished,Independent House,1,South,Borewell,None,3.8,1.3,Not Renovated,1.14,9678724
+150,2660,2776,5,4,2,14,Urban,3.28,Semi-Furnished,Villa,1,West,Municipal,Partial,3.7,2.1,Not Renovated,2.79,33150580
+151,4597,2096,1,3,1,11,Suburban,16.79,Unfurnished,Independent House,2,West,Municipal,None,4.9,4.9,Recently Renovated,4.23,29066069
+152,1354,6150,5,4,1,11,Suburban,21.57,Unfurnished,Villa,3,East,Borewell,Full,4.9,3.4,Not Renovated,2.07,10908236
+153,3974,7029,1,2,1,8,Suburban,5.85,Semi-Furnished,Apartment,0,East,Municipal,None,3.7,3.8,Renovated,2.41,24133662
+154,2207,925,2,1,3,20,Urban,23.64,Semi-Furnished,Independent House,0,West,Municipal,Partial,2.0,1.0,Recently Renovated,1.08,14591339
+155,3277,7755,1,4,1,23,Rural,17.93,Semi-Furnished,Apartment,3,West,Municipal,Partial,4.2,3.1,Renovated,1.05,12152742
+156,2233,5432,4,4,3,1,Rural,28.61,Semi-Furnished,Villa,0,East,Municipal,Full,1.4,1.2,Renovated,3.29,12043523
+157,4010,7088,3,2,3,21,Suburban,2.23,Fully-Furnished,Villa,3,North,Borewell,Partial,4.1,3.3,Not Renovated,3.54,41610950
+158,702,4396,2,2,1,2,Suburban,8.69,Fully-Furnished,Villa,1,East,Municipal,None,4.6,4.7,Renovated,4.0,8233683
+159,3755,4083,1,4,3,11,Rural,18.45,Semi-Furnished,Apartment,3,North,Borewell,None,2.5,4.9,Recently Renovated,3.01,13358650
+160,4718,6968,5,3,1,27,Rural,9.6,Unfurnished,Villa,0,South,Municipal,Full,3.5,3.2,Renovated,3.41,25862772
+161,4996,2403,2,4,2,29,Suburban,21.72,Semi-Furnished,Apartment,3,South,Municipal,Partial,2.7,2.8,Renovated,0.56,28089195
+162,1266,866,2,2,2,25,Suburban,23.01,Semi-Furnished,Independent House,2,East,Municipal,Full,2.8,4.8,Renovated,1.23,5649765
+163,4889,1032,1,1,2,15,Rural,3.97,Unfurnished,Villa,1,North,Municipal,None,2.2,3.7,Renovated,4.93,24921785
+164,2827,2956,2,1,2,20,Urban,15.9,Fully-Furnished,Villa,1,East,Borewell,Full,4.0,1.3,Renovated,0.84,32935372
+165,3431,1969,5,3,3,27,Suburban,15.76,Semi-Furnished,Villa,3,East,Borewell,Partial,4.7,2.9,Not Renovated,3.55,29509649
+166,697,2958,2,4,1,23,Rural,11.71,Semi-Furnished,Independent House,0,North,Borewell,Full,4.8,2.0,Recently Renovated,1.29,2645823
+167,2430,7171,5,1,1,25,Rural,28.05,Fully-Furnished,Villa,2,East,Both,Partial,1.7,2.9,Not Renovated,3.73,12791777
+168,4082,5006,1,4,1,29,Rural,25.0,Fully-Furnished,Apartment,1,South,Municipal,Partial,4.5,2.8,Recently Renovated,3.68,15474737
+169,1108,2293,3,2,2,0,Rural,21.22,Unfurnished,Apartment,1,West,Municipal,None,3.9,3.3,Recently Renovated,1.55,3948521
+170,3772,6977,2,1,2,20,Urban,21.72,Fully-Furnished,Villa,0,West,Borewell,None,2.0,2.4,Recently Renovated,1.71,41553396
+171,1647,5518,3,3,1,2,Rural,14.39,Fully-Furnished,Villa,0,East,Both,None,1.3,1.7,Recently Renovated,3.45,10458494
+172,4782,4807,5,2,2,19,Suburban,27.71,Fully-Furnished,Independent House,2,North,Municipal,Partial,2.1,3.0,Recently Renovated,2.26,36412998
+173,3897,7691,2,3,1,1,Urban,21.14,Unfurnished,Independent House,3,North,Borewell,Full,4.6,4.3,Renovated,1.38,30270237
+174,3011,7538,4,2,1,8,Rural,22.14,Fully-Furnished,Independent House,0,South,Municipal,Partial,3.5,3.7,Not Renovated,3.79,15573175
+175,2294,3272,3,1,1,18,Urban,25.99,Fully-Furnished,Villa,3,North,Municipal,None,3.9,2.4,Not Renovated,1.19,24544912
+176,1159,3460,2,3,1,14,Suburban,8.95,Unfurnished,Independent House,2,North,Borewell,None,2.0,4.7,Renovated,4.35,6621882
+177,3311,6437,3,3,1,17,Rural,24.41,Fully-Furnished,Independent House,3,South,Borewell,Full,3.9,4.6,Recently Renovated,2.82,16886682
+178,1869,3539,2,2,1,25,Suburban,6.66,Fully-Furnished,Apartment,1,East,Municipal,None,1.1,1.8,Not Renovated,0.98,11039738
+179,2486,6201,1,3,1,10,Rural,11.01,Unfurnished,Independent House,3,West,Municipal,None,2.5,1.2,Renovated,3.62,9539768
+180,646,2561,3,2,2,24,Rural,10.73,Semi-Furnished,Apartment,2,South,Borewell,None,3.5,4.0,Renovated,2.84,1698896
+181,3719,4314,4,2,1,22,Rural,29.38,Unfurnished,Apartment,2,East,Municipal,Full,1.6,4.3,Not Renovated,1.84,12224046
+182,3411,2775,4,2,1,15,Rural,25.84,Fully-Furnished,Independent House,2,South,Municipal,Partial,4.3,4.9,Not Renovated,2.4,16369726
+183,2234,3162,5,2,2,21,Rural,21.33,Fully-Furnished,Apartment,3,East,Borewell,None,1.9,4.6,Recently Renovated,1.84,10059073
+184,2343,1676,2,1,2,16,Urban,22.08,Fully-Furnished,Villa,1,South,Municipal,Full,3.6,3.4,Recently Renovated,1.68,25012374
+185,988,6885,3,2,2,4,Rural,17.3,Unfurnished,Villa,0,East,Municipal,None,2.6,3.1,Not Renovated,1.24,5503456
+186,3476,4612,5,4,1,11,Rural,28.47,Fully-Furnished,Independent House,1,South,Both,Full,3.4,1.1,Recently Renovated,2.13,17977553
+187,2459,4248,3,3,3,10,Urban,15.39,Fully-Furnished,Villa,3,East,Borewell,None,1.4,2.0,Renovated,1.63,30030147
+188,2885,2112,2,4,3,29,Urban,12.04,Unfurnished,Apartment,3,South,Both,Full,1.1,2.8,Recently Renovated,3.58,16969906
+189,3419,2260,4,1,2,14,Urban,5.73,Semi-Furnished,Villa,0,West,Both,None,4.6,3.5,Recently Renovated,3.58,39989773
+190,2302,3509,1,4,3,26,Urban,23.8,Semi-Furnished,Independent House,3,West,Both,Partial,2.1,3.2,Renovated,2.76,15436054
+191,4561,3124,4,3,2,2,Urban,22.3,Fully-Furnished,Independent House,2,North,Municipal,None,4.3,4.0,Recently Renovated,4.0,45353250
+192,3869,2533,5,4,1,0,Urban,12.15,Unfurnished,Apartment,2,East,Municipal,Full,5.0,2.1,Renovated,4.29,28398105
+193,762,2405,1,1,3,19,Rural,1.73,Fully-Furnished,Independent House,2,South,Both,None,1.8,3.3,Recently Renovated,3.11,3492874
+194,1123,6422,5,2,1,28,Rural,25.33,Unfurnished,Villa,2,East,Both,Partial,2.1,1.4,Not Renovated,3.29,4093510
+195,1516,7567,2,4,3,15,Suburban,1.33,Unfurnished,Independent House,2,West,Both,None,3.7,2.7,Recently Renovated,1.77,11292826
+196,4143,3363,1,1,1,1,Rural,21.41,Semi-Furnished,Apartment,3,East,Municipal,Full,4.9,4.0,Not Renovated,4.53,14864682
+197,2549,4221,5,1,3,1,Rural,29.14,Semi-Furnished,Independent House,0,South,Both,Full,4.7,3.8,Not Renovated,0.61,12012619
+198,4223,7786,2,3,1,2,Urban,13.69,Unfurnished,Villa,0,East,Both,Partial,3.0,5.0,Not Renovated,2.07,43359816
+199,3608,4317,4,3,1,7,Urban,7.81,Fully-Furnished,Apartment,2,South,Borewell,Full,4.2,2.1,Not Renovated,3.75,31633413
+200,4590,3197,2,4,3,23,Rural,21.44,Semi-Furnished,Villa,3,West,Borewell,None,1.5,3.0,Not Renovated,0.86,25725624
+201,2556,6526,3,2,1,27,Suburban,24.7,Fully-Furnished,Apartment,1,West,Municipal,None,4.9,2.3,Renovated,1.32,15509277
+202,3670,4535,2,1,1,14,Urban,16.85,Semi-Furnished,Independent House,1,West,Borewell,None,4.9,2.8,Renovated,3.15,30311349
+203,2182,3670,2,4,1,6,Rural,29.04,Semi-Furnished,Apartment,3,North,Borewell,Full,1.7,4.4,Renovated,3.02,6723349
+204,2755,1960,3,1,3,5,Rural,2.5,Fully-Furnished,Apartment,2,West,Borewell,None,2.2,3.7,Not Renovated,3.83,12928771
+205,1654,5654,5,1,3,8,Suburban,15.64,Semi-Furnished,Independent House,0,East,Municipal,None,1.4,4.5,Recently Renovated,4.16,11499048
+206,4999,7842,5,2,1,19,Suburban,21.84,Semi-Furnished,Villa,3,North,Borewell,None,2.1,1.8,Renovated,1.08,42850209
+207,3691,1042,2,2,1,27,Urban,26.02,Fully-Furnished,Independent House,1,West,Municipal,Partial,4.3,4.5,Recently Renovated,0.58,33731740
+208,2196,3390,3,4,3,0,Suburban,6.2,Semi-Furnished,Apartment,1,East,Both,Full,2.5,1.2,Recently Renovated,3.6,14537064
+209,4491,1863,3,2,3,7,Rural,24.2,Semi-Furnished,Independent House,1,East,Borewell,Full,1.4,4.6,Not Renovated,1.86,19649047
+210,2148,5124,4,2,1,22,Rural,17.03,Semi-Furnished,Apartment,2,East,Municipal,Full,2.4,2.3,Not Renovated,3.32,7176140
+211,1945,3395,5,4,1,22,Suburban,12.5,Fully-Furnished,Independent House,1,South,Borewell,Partial,4.9,2.3,Not Renovated,1.18,16369082
+212,4699,1719,1,2,1,2,Suburban,4.82,Unfurnished,Independent House,3,North,Both,Full,3.5,3.0,Renovated,2.61,31714499
+213,4423,6142,5,3,2,3,Suburban,26.09,Fully-Furnished,Villa,3,East,Municipal,Partial,2.7,4.8,Not Renovated,2.77,43264931
+214,753,805,5,1,3,25,Suburban,5.56,Unfurnished,Apartment,1,South,Municipal,Partial,1.7,1.2,Renovated,3.13,3024933
+215,3683,1267,4,1,2,24,Urban,9.98,Semi-Furnished,Villa,3,West,Municipal,Full,4.9,2.4,Renovated,2.81,39929436
+216,3057,6651,1,1,3,14,Suburban,9.41,Unfurnished,Apartment,1,East,Both,None,4.3,4.4,Renovated,2.73,16172958
+217,598,4970,4,1,3,5,Urban,26.27,Fully-Furnished,Independent House,1,South,Both,None,2.1,2.6,Renovated,2.0,2981423
+218,2700,803,1,4,3,14,Rural,20.51,Fully-Furnished,Apartment,0,East,Both,Full,1.3,1.8,Not Renovated,0.82,10563385
+219,3461,6766,2,1,3,20,Suburban,24.1,Semi-Furnished,Villa,2,North,Municipal,Full,1.2,2.7,Renovated,0.9,26138466
+220,4933,1445,1,1,3,2,Urban,8.26,Unfurnished,Villa,2,North,Both,Partial,1.5,2.5,Not Renovated,2.45,49153266
+221,4277,917,4,1,3,24,Suburban,19.12,Semi-Furnished,Villa,0,West,Borewell,Full,3.3,4.7,Not Renovated,2.1,35373274
+222,3369,3728,5,1,3,20,Rural,17.58,Semi-Furnished,Apartment,0,East,Both,Partial,4.7,4.0,Renovated,2.82,12483091
+223,3734,6525,1,3,2,20,Rural,25.15,Fully-Furnished,Villa,2,South,Municipal,Full,3.0,3.0,Not Renovated,1.87,22776461
+224,4291,3351,1,1,1,13,Rural,27.28,Unfurnished,Villa,1,West,Borewell,None,4.4,5.0,Recently Renovated,3.6,20566999
+225,1456,6917,3,3,1,19,Suburban,1.35,Unfurnished,Villa,1,East,Both,None,2.8,2.9,Not Renovated,4.39,12722991
+226,4567,5842,5,4,2,13,Suburban,20.55,Unfurnished,Independent House,2,West,Borewell,Full,3.8,1.2,Not Renovated,1.84,29538214
+227,660,7517,2,2,2,3,Urban,2.5,Unfurnished,Independent House,1,South,Borewell,Partial,3.9,2.0,Renovated,1.37,7347659
+228,4993,6360,4,1,2,11,Rural,16.92,Semi-Furnished,Apartment,0,West,Municipal,None,1.7,2.7,Renovated,1.02,19589885
+229,1800,5089,2,2,2,16,Suburban,9.34,Semi-Furnished,Apartment,1,West,Borewell,Partial,2.4,1.6,Not Renovated,3.27,9952286
+230,4487,1646,5,2,3,6,Rural,9.9,Fully-Furnished,Villa,1,West,Borewell,Full,3.5,4.8,Renovated,2.5,32526787
+231,2027,3562,1,4,1,8,Rural,11.24,Semi-Furnished,Independent House,3,East,Municipal,Full,1.3,4.1,Recently Renovated,1.35,9561632
+232,1718,6311,1,2,3,2,Urban,19.02,Semi-Furnished,Villa,3,South,Municipal,None,2.4,2.1,Recently Renovated,3.44,16201363
+233,4996,7993,5,3,1,27,Urban,10.69,Fully-Furnished,Villa,3,North,Municipal,Full,3.1,3.4,Renovated,1.17,62897516
+234,3604,6354,1,2,1,12,Urban,22.25,Fully-Furnished,Independent House,1,East,Borewell,None,5.0,3.9,Not Renovated,2.99,33550393
+235,3235,7116,1,2,2,14,Urban,12.73,Fully-Furnished,Independent House,2,North,Borewell,Partial,2.9,4.8,Recently Renovated,2.87,30659922
+236,1454,6564,1,2,3,17,Rural,2.98,Semi-Furnished,Independent House,0,North,Borewell,None,4.3,4.5,Recently Renovated,3.8,7161811
+237,3946,7269,4,1,2,18,Urban,23.73,Semi-Furnished,Apartment,1,East,Municipal,None,2.7,3.1,Not Renovated,0.75,26918486
+238,1545,6329,4,1,3,0,Urban,9.29,Fully-Furnished,Apartment,2,East,Both,Partial,4.2,4.1,Renovated,4.5,13671965
+239,2193,1941,3,3,1,5,Urban,13.55,Fully-Furnished,Villa,1,South,Borewell,None,3.4,3.2,Recently Renovated,3.66,28085320
+240,3936,7779,2,3,2,26,Urban,20.88,Fully-Furnished,Apartment,0,South,Both,None,4.5,3.2,Not Renovated,1.47,29791109
+241,1062,2610,5,1,2,26,Rural,10.64,Semi-Furnished,Independent House,1,West,Municipal,Full,2.6,1.5,Not Renovated,1.33,4466625
+242,2985,1523,5,3,1,22,Urban,2.64,Semi-Furnished,Independent House,0,North,Borewell,Partial,3.4,1.5,Recently Renovated,2.44,28047375
+243,3854,1024,5,1,1,26,Rural,11.84,Unfurnished,Apartment,1,South,Both,None,3.5,3.1,Renovated,4.18,13208483
+244,725,5427,3,4,1,26,Suburban,28.39,Semi-Furnished,Villa,0,West,Borewell,Partial,2.7,2.1,Recently Renovated,4.29,1631154
+245,1459,5008,4,2,2,1,Rural,19.61,Semi-Furnished,Villa,1,South,Borewell,Partial,1.6,1.1,Not Renovated,2.84,7620297
+246,3567,7083,3,2,3,23,Rural,20.47,Semi-Furnished,Apartment,0,East,Borewell,None,1.4,3.9,Recently Renovated,4.37,12440768
+247,1315,5454,5,3,2,13,Urban,19.34,Fully-Furnished,Villa,3,South,Both,Full,1.1,1.1,Renovated,0.52,16194204
+248,3620,2848,2,1,3,5,Suburban,6.77,Semi-Furnished,Villa,1,North,Municipal,Partial,4.5,3.4,Not Renovated,0.66,33582092
+249,516,7033,1,1,2,13,Suburban,13.13,Fully-Furnished,Villa,1,South,Borewell,None,1.9,3.2,Renovated,4.6,1071623
+250,1743,5549,4,3,2,3,Suburban,22.78,Unfurnished,Independent House,2,North,Municipal,Partial,1.8,4.9,Recently Renovated,3.99,11161384
+251,2705,5215,4,1,1,20,Suburban,3.94,Unfurnished,Independent House,2,East,Municipal,Full,3.9,2.9,Recently Renovated,2.53,18112225
+252,3024,2373,3,4,3,7,Rural,9.06,Fully-Furnished,Apartment,0,North,Both,Full,2.3,1.3,Renovated,3.89,14029569
+253,1569,2628,4,2,2,29,Suburban,9.01,Fully-Furnished,Independent House,1,South,Both,Full,3.0,3.2,Recently Renovated,4.8,11381080
+254,3944,2717,5,3,2,2,Rural,13.53,Fully-Furnished,Villa,0,West,Municipal,None,1.7,4.4,Renovated,3.97,26977006
+255,3065,5034,5,3,1,18,Rural,29.43,Semi-Furnished,Independent House,3,East,Borewell,None,4.8,5.0,Recently Renovated,4.29,12831706
+256,1560,7788,3,1,1,29,Rural,2.96,Unfurnished,Apartment,2,South,Both,Full,4.4,2.7,Renovated,3.92,5446873
+257,2827,2826,5,3,3,13,Suburban,16.04,Fully-Furnished,Independent House,0,East,Borewell,None,4.5,2.3,Renovated,1.26,22846042
+258,3920,7202,2,4,2,26,Urban,6.2,Semi-Furnished,Villa,0,East,Borewell,Full,2.6,4.6,Not Renovated,4.25,42494051
+259,801,4544,3,1,3,19,Urban,29.15,Unfurnished,Villa,2,South,Borewell,None,4.0,1.8,Not Renovated,1.38,2671233
+260,4776,1701,2,1,2,16,Suburban,4.29,Semi-Furnished,Apartment,1,South,Municipal,Full,1.6,3.5,Renovated,4.52,28036333
+261,1106,5585,1,1,3,24,Urban,12.7,Unfurnished,Independent House,0,West,Borewell,Partial,1.0,2.6,Recently Renovated,2.56,5495657
+262,3670,2839,2,1,1,7,Urban,22.4,Semi-Furnished,Independent House,2,East,Municipal,Full,1.1,1.2,Recently Renovated,3.55,28957143
+263,1199,809,1,4,2,23,Rural,21.43,Unfurnished,Independent House,1,East,Municipal,Full,3.3,2.4,Recently Renovated,2.74,3280437
+264,1639,1060,1,1,3,13,Rural,13.26,Unfurnished,Villa,3,South,Borewell,None,2.8,2.1,Renovated,0.92,7608055
+265,690,6838,2,3,1,25,Suburban,11.05,Semi-Furnished,Apartment,2,North,Borewell,None,3.1,3.7,Renovated,1.81,3143575
+266,2800,2473,3,4,1,5,Suburban,12.53,Fully-Furnished,Independent House,0,South,Borewell,None,1.0,4.8,Renovated,4.93,22315065
+267,1480,3019,5,2,3,22,Urban,8.66,Unfurnished,Villa,3,East,Borewell,None,2.7,2.1,Renovated,4.82,15488078
+268,3475,7841,5,2,2,21,Rural,6.95,Fully-Furnished,Villa,1,South,Municipal,None,3.9,4.2,Not Renovated,1.94,25143834
+269,1684,2860,1,3,2,15,Suburban,15.01,Semi-Furnished,Villa,1,West,Borewell,None,2.8,1.2,Renovated,4.98,10941005
+270,3827,6087,1,3,1,24,Suburban,8.79,Fully-Furnished,Independent House,2,North,Borewell,Partial,3.9,3.2,Recently Renovated,4.3,30392354
+271,3894,4513,3,4,2,18,Suburban,9.34,Fully-Furnished,Independent House,2,South,Municipal,Full,1.9,1.3,Not Renovated,3.25,30721510
+272,627,2419,4,2,2,13,Suburban,20.05,Fully-Furnished,Independent House,2,West,Both,Full,4.3,4.7,Recently Renovated,0.68,5271676
+273,2565,1120,2,2,2,18,Suburban,29.09,Fully-Furnished,Independent House,1,East,Both,Full,3.4,4.1,Renovated,4.56,16352098
+274,2316,2142,1,2,1,2,Suburban,18.51,Fully-Furnished,Independent House,3,South,Municipal,Partial,1.8,3.6,Not Renovated,3.01,15918823
+275,1069,6532,5,2,3,9,Urban,3.23,Unfurnished,Independent House,1,East,Both,Full,1.9,4.3,Renovated,4.41,10128036
+276,2395,3176,3,2,2,18,Rural,3.19,Unfurnished,Independent House,0,West,Municipal,Partial,3.5,3.6,Not Renovated,4.25,11350962
+277,3233,3632,2,1,1,8,Rural,28.59,Unfurnished,Independent House,1,East,Borewell,Partial,4.3,4.9,Recently Renovated,4.25,11861185
+278,4363,3624,3,3,1,27,Suburban,9.62,Semi-Furnished,Independent House,0,West,Borewell,Partial,2.7,3.9,Renovated,3.64,30542271
+279,4514,2794,2,1,3,19,Rural,3.67,Fully-Furnished,Villa,3,West,Both,Full,2.0,4.7,Renovated,1.81,30220265
+280,3401,3758,2,2,2,12,Rural,18.37,Unfurnished,Independent House,2,West,Borewell,Partial,4.5,3.1,Not Renovated,2.01,13884470
+281,2186,6839,1,4,2,6,Rural,19.09,Semi-Furnished,Apartment,2,South,Both,Full,3.7,1.5,Not Renovated,1.89,8887428
+282,3509,2838,3,4,3,13,Suburban,19.81,Unfurnished,Villa,1,East,Both,Full,2.8,3.1,Renovated,0.59,28179056
+283,654,4290,3,2,3,8,Suburban,8.75,Unfurnished,Independent House,2,East,Borewell,None,3.0,1.5,Not Renovated,3.12,4110136
+284,3037,4477,5,2,1,26,Rural,1.44,Fully-Furnished,Apartment,3,North,Borewell,None,1.8,3.4,Renovated,3.64,13730818
+285,1909,1918,5,4,1,27,Rural,28.99,Semi-Furnished,Independent House,2,North,Both,Partial,3.5,2.9,Not Renovated,4.34,6722766
+286,4557,2404,1,1,3,22,Suburban,8.28,Fully-Furnished,Apartment,1,North,Borewell,Partial,2.4,3.5,Recently Renovated,1.13,30069530
+287,1284,7261,1,1,2,24,Urban,20.6,Fully-Furnished,Apartment,3,North,Municipal,Full,5.0,1.0,Not Renovated,2.95,6566499
+288,3675,4827,4,2,1,27,Rural,21.49,Unfurnished,Apartment,0,East,Borewell,Partial,2.9,1.8,Recently Renovated,0.54,11570861
+289,4841,1035,5,1,1,18,Urban,18.69,Fully-Furnished,Apartment,1,West,Borewell,Partial,2.9,3.0,Not Renovated,0.93,40027026
+290,3306,2769,2,4,2,14,Rural,10.07,Semi-Furnished,Villa,0,West,Municipal,Full,3.3,4.8,Not Renovated,0.74,20417351
+291,1037,5229,3,1,1,19,Urban,8.86,Fully-Furnished,Villa,3,South,Borewell,Partial,4.7,2.5,Renovated,3.76,11924140
+292,2341,2708,1,2,2,13,Urban,18.33,Fully-Furnished,Apartment,1,West,Borewell,Partial,4.2,2.7,Not Renovated,0.86,17573526
+293,2955,1175,3,4,2,23,Urban,26.12,Fully-Furnished,Independent House,1,East,Both,Full,2.8,3.9,Not Renovated,3.72,26152777
+294,1024,4330,3,1,2,5,Suburban,28.46,Unfurnished,Apartment,3,East,Borewell,Full,3.9,3.4,Recently Renovated,1.62,3936530
+295,3450,6056,4,3,3,20,Urban,4.07,Semi-Furnished,Villa,2,East,Borewell,None,3.3,2.2,Not Renovated,4.45,39259543
+296,4631,3435,5,4,3,28,Urban,5.49,Unfurnished,Independent House,1,South,Municipal,Full,3.0,2.6,Renovated,4.16,37624554
+297,4615,2370,1,4,3,3,Urban,28.4,Unfurnished,Villa,1,North,Both,None,1.8,1.9,Recently Renovated,4.81,41063218
+298,2868,3360,3,3,2,7,Rural,22.36,Unfurnished,Villa,0,West,Both,Partial,2.9,4.9,Renovated,4.48,15665155
+299,4347,6215,1,3,2,16,Urban,26.61,Unfurnished,Independent House,2,East,Both,Full,2.0,1.5,Renovated,4.7,30672939
+300,4995,4191,2,4,3,29,Rural,6.88,Unfurnished,Apartment,0,East,Borewell,Full,4.7,2.5,Renovated,4.36,17463159
+301,3201,3765,4,3,1,8,Urban,18.04,Semi-Furnished,Apartment,0,North,Both,Full,2.3,1.1,Renovated,3.62,23459776
+302,1471,4443,2,2,2,0,Urban,21.33,Fully-Furnished,Apartment,2,East,Municipal,Partial,4.8,1.9,Recently Renovated,1.27,12194806
+303,1666,6751,1,2,1,23,Suburban,20.72,Unfurnished,Apartment,2,West,Both,None,3.1,4.1,Not Renovated,1.72,6392994
+304,3274,6268,1,2,1,19,Rural,12.84,Unfurnished,Independent House,3,South,Municipal,Partial,3.5,1.8,Renovated,1.46,12739613
+305,2482,4650,5,4,2,24,Urban,1.45,Semi-Furnished,Independent House,2,East,Both,Partial,3.2,1.3,Recently Renovated,3.22,24324018
+306,1353,1672,3,3,2,13,Rural,17.9,Semi-Furnished,Independent House,1,West,Both,Full,1.5,2.9,Renovated,2.77,5586910
+307,4646,2052,3,3,1,10,Rural,8.34,Fully-Furnished,Villa,2,East,Municipal,None,2.5,1.0,Not Renovated,4.4,30830997
+308,4236,7213,2,1,1,20,Suburban,14.06,Semi-Furnished,Independent House,3,North,Both,Partial,1.4,1.3,Recently Renovated,4.79,27073189
+309,4269,6747,4,1,3,2,Suburban,28.77,Fully-Furnished,Apartment,3,East,Both,Full,3.5,4.2,Recently Renovated,2.32,26576508
+310,1074,7741,3,3,3,8,Suburban,12.57,Unfurnished,Villa,3,East,Both,Partial,2.8,4.1,Not Renovated,2.78,9115100
+311,3761,2114,5,3,2,26,Suburban,25.35,Unfurnished,Apartment,2,South,Borewell,Partial,4.1,4.7,Recently Renovated,4.87,17853938
+312,1648,5620,2,3,3,13,Suburban,6.47,Fully-Furnished,Apartment,2,North,Municipal,Full,1.9,4.4,Not Renovated,1.74,11073004
+313,2215,6948,2,4,3,29,Suburban,20.5,Semi-Furnished,Independent House,0,North,Both,Full,1.7,3.7,Recently Renovated,4.07,11926577
+314,4354,3698,5,3,3,8,Suburban,29.33,Fully-Furnished,Independent House,0,South,Municipal,None,2.6,1.2,Recently Renovated,1.51,33647243
+315,2991,877,4,1,3,3,Suburban,3.95,Semi-Furnished,Apartment,1,East,Municipal,Partial,4.7,4.1,Not Renovated,3.57,19195081
+316,3160,3421,5,4,1,26,Urban,1.24,Unfurnished,Apartment,0,West,Municipal,Full,3.8,4.4,Not Renovated,1.64,23189945
+317,3624,5027,4,3,2,3,Rural,13.57,Semi-Furnished,Villa,1,North,Both,Full,2.7,4.2,Recently Renovated,4.48,22169104
+318,3551,1400,5,1,3,27,Suburban,3.69,Fully-Furnished,Independent House,3,North,Both,None,3.1,3.0,Recently Renovated,3.03,29869473
+319,504,6668,5,4,1,7,Suburban,22.7,Fully-Furnished,Villa,0,East,Municipal,None,1.3,1.9,Not Renovated,1.34,5051175
+320,1376,1865,1,3,1,1,Rural,27.52,Unfurnished,Villa,2,East,Borewell,Full,4.9,4.4,Not Renovated,1.51,7202099
+321,1491,2936,2,3,1,8,Urban,13.59,Semi-Furnished,Villa,0,North,Municipal,None,3.7,3.9,Recently Renovated,2.72,17112601
+322,4642,3249,5,3,3,28,Rural,8.5,Semi-Furnished,Apartment,1,East,Borewell,Full,2.1,4.9,Recently Renovated,4.83,17951165
+323,4864,3143,5,4,3,13,Rural,13.6,Semi-Furnished,Villa,0,West,Municipal,Partial,3.3,1.6,Recently Renovated,3.96,29452439
+324,4965,2663,3,1,2,21,Suburban,21.98,Unfurnished,Villa,3,North,Municipal,None,1.4,1.9,Not Renovated,2.7,36120684
+325,1135,2118,2,1,3,8,Rural,1.26,Semi-Furnished,Apartment,2,West,Municipal,Partial,4.9,1.8,Recently Renovated,2.02,5748129
+326,2193,5511,3,2,3,23,Rural,18.09,Fully-Furnished,Independent House,1,West,Both,Partial,1.7,4.2,Renovated,2.97,10003494
+327,2182,4397,2,3,1,22,Suburban,18.79,Semi-Furnished,Independent House,2,East,Borewell,Partial,3.6,1.7,Not Renovated,3.87,12293491
+328,619,7743,3,2,2,15,Suburban,19.49,Unfurnished,Villa,2,West,Borewell,Full,2.0,1.3,Recently Renovated,4.03,2552402
+329,1330,4562,5,2,3,28,Suburban,8.02,Semi-Furnished,Apartment,1,East,Municipal,Partial,3.9,5.0,Not Renovated,1.96,8707217
+330,4175,7365,5,1,3,29,Suburban,21.71,Semi-Furnished,Independent House,2,South,Both,Partial,4.1,1.1,Renovated,3.75,26380019
+331,1869,6784,1,4,1,16,Rural,3.65,Fully-Furnished,Villa,2,East,Both,Partial,3.7,4.3,Not Renovated,3.46,12837386
+332,1240,5942,3,4,1,15,Rural,6.78,Semi-Furnished,Villa,0,West,Borewell,Full,3.5,2.5,Recently Renovated,4.82,7206199
+333,616,5470,4,1,3,29,Urban,26.45,Fully-Furnished,Apartment,2,South,Both,Partial,4.6,4.4,Renovated,4.69,168501
+334,3338,2990,1,4,2,11,Urban,22.42,Fully-Furnished,Villa,2,East,Borewell,Partial,1.3,3.2,Renovated,4.05,36599367
+335,1650,1792,3,2,2,2,Rural,1.4,Unfurnished,Independent House,2,West,Borewell,None,2.3,4.6,Recently Renovated,3.76,8471310
+336,2431,3512,3,3,1,10,Urban,8.2,Fully-Furnished,Apartment,2,North,Borewell,Full,2.0,4.7,Recently Renovated,1.73,21852342
+337,1512,2992,1,1,1,13,Rural,7.22,Fully-Furnished,Independent House,1,North,Both,Partial,5.0,1.0,Recently Renovated,4.31,6908891
+338,2164,2048,5,3,3,17,Urban,8.85,Unfurnished,Independent House,3,East,Borewell,None,2.6,1.3,Not Renovated,2.42,19044753
+339,1581,3854,3,4,1,20,Suburban,8.18,Fully-Furnished,Independent House,0,East,Borewell,Full,3.9,2.0,Not Renovated,1.73,12450583
+340,1012,5398,5,3,3,20,Urban,2.81,Unfurnished,Villa,2,North,Municipal,Full,3.7,3.7,Not Renovated,2.23,13486567
+341,3349,4833,1,4,2,4,Suburban,14.31,Semi-Furnished,Villa,2,West,Borewell,Full,1.8,4.6,Recently Renovated,4.26,28657430
+342,1059,2797,5,4,2,15,Suburban,22.25,Unfurnished,Independent House,1,West,Borewell,Full,2.0,2.8,Recently Renovated,1.17,5984109
+343,4172,5716,2,2,3,19,Suburban,18.6,Fully-Furnished,Independent House,3,West,Municipal,Full,2.1,3.4,Not Renovated,2.55,31100827
+344,3843,4487,4,4,1,4,Suburban,20.51,Unfurnished,Apartment,2,East,Municipal,Full,2.6,1.8,Renovated,2.72,20415525
+345,4570,2951,3,2,2,2,Urban,3.35,Fully-Furnished,Apartment,1,South,Both,Partial,1.9,4.2,Not Renovated,0.66,42036661
+346,1970,4818,4,2,1,11,Rural,28.59,Semi-Furnished,Villa,0,South,Borewell,Partial,1.1,4.9,Renovated,1.38,10377592
+347,1080,3910,5,2,2,0,Suburban,25.32,Unfurnished,Villa,0,South,Both,Partial,4.5,2.1,Recently Renovated,4.22,8712865
+348,2794,2770,3,1,3,20,Urban,24.35,Semi-Furnished,Apartment,2,South,Both,Partial,4.9,3.0,Recently Renovated,4.24,17058591
+349,3647,997,5,1,3,28,Suburban,24.87,Fully-Furnished,Independent House,2,South,Municipal,None,2.4,1.3,Not Renovated,1.82,26575977
+350,4749,6565,2,4,3,8,Urban,28.05,Fully-Furnished,Villa,3,East,Both,Partial,2.4,3.2,Not Renovated,4.44,54040041
+351,2179,3426,1,2,2,28,Urban,16.78,Semi-Furnished,Independent House,3,East,Borewell,Full,1.0,3.0,Recently Renovated,3.97,14088811
+352,4006,7334,3,1,1,8,Urban,6.81,Unfurnished,Apartment,2,South,Municipal,Partial,3.7,1.6,Not Renovated,2.38,27242876
+353,3244,2002,2,2,1,3,Rural,18.89,Unfurnished,Villa,1,East,Borewell,Partial,4.3,2.8,Recently Renovated,3.87,16820422
+354,3856,7497,2,3,1,2,Urban,22.54,Fully-Furnished,Villa,3,East,Borewell,Full,1.6,2.3,Recently Renovated,4.83,44580387
+355,4545,6367,3,3,2,16,Urban,22.4,Semi-Furnished,Apartment,2,South,Municipal,Partial,1.6,3.1,Renovated,2.57,30917015
+356,1743,7982,5,3,2,1,Rural,16.12,Semi-Furnished,Villa,3,West,Borewell,Partial,4.2,3.3,Not Renovated,1.57,12200516
+357,3618,6542,2,4,2,23,Rural,2.99,Unfurnished,Apartment,2,East,Municipal,Partial,3.5,1.0,Recently Renovated,4.74,12552955
+358,2641,6588,4,2,2,0,Urban,11.76,Unfurnished,Villa,0,West,Borewell,None,1.2,4.0,Not Renovated,3.22,27321726
+359,3559,6208,2,3,2,7,Rural,27.7,Unfurnished,Apartment,2,East,Municipal,Partial,3.5,3.9,Renovated,0.97,11909709
+360,3459,2835,5,1,1,12,Suburban,17.95,Semi-Furnished,Villa,0,East,Both,Full,2.2,2.5,Renovated,3.08,28732887
+361,2765,1277,5,3,2,22,Suburban,16.61,Unfurnished,Independent House,3,South,Borewell,Full,2.5,1.2,Not Renovated,2.75,17386373
+362,2979,2054,4,3,2,14,Rural,8.8,Unfurnished,Independent House,2,East,Municipal,Partial,4.1,4.0,Not Renovated,4.35,13268669
+363,2135,1722,2,3,1,7,Rural,11.69,Fully-Furnished,Independent House,3,North,Borewell,Partial,4.2,4.8,Recently Renovated,2.89,11882927
+364,2257,1219,5,4,2,11,Urban,26.97,Unfurnished,Villa,0,North,Borewell,Partial,2.6,2.0,Renovated,1.65,21352791
+365,4952,3004,3,1,1,21,Rural,20.33,Unfurnished,Villa,2,South,Borewell,Full,4.8,2.3,Renovated,3.54,25530225
+366,2570,3397,1,2,1,11,Urban,23.83,Semi-Furnished,Independent House,3,West,Municipal,Full,2.6,1.7,Renovated,2.94,19248678
+367,3349,1920,1,1,3,13,Suburban,14.18,Semi-Furnished,Independent House,0,West,Both,None,4.1,3.3,Not Renovated,1.55,23173724
+368,3751,3868,1,2,3,14,Rural,19.28,Fully-Furnished,Apartment,3,West,Both,None,2.9,1.6,Recently Renovated,3.08,14919979
+369,4230,7940,2,4,3,14,Urban,8.2,Unfurnished,Apartment,1,North,Both,None,4.6,2.4,Not Renovated,4.2,28021687
+370,2989,1750,4,4,3,8,Urban,21.46,Fully-Furnished,Apartment,0,West,Municipal,Full,4.6,3.8,Not Renovated,0.63,26100447
+371,2131,3136,5,4,2,18,Suburban,13.4,Semi-Furnished,Independent House,0,West,Both,None,1.3,3.2,Not Renovated,3.34,15301032
+372,3316,6173,3,4,3,25,Rural,13.83,Fully-Furnished,Independent House,0,South,Municipal,Partial,4.7,2.5,Recently Renovated,2.07,17902305
+373,1515,3043,3,2,1,19,Suburban,19.83,Semi-Furnished,Independent House,2,West,Borewell,Partial,4.3,2.7,Not Renovated,1.82,9326159
+374,1848,3445,2,3,2,28,Urban,28.15,Fully-Furnished,Apartment,2,North,Borewell,Full,4.2,3.2,Renovated,2.27,10476127
+375,3587,2657,1,2,3,21,Urban,2.86,Fully-Furnished,Villa,2,North,Both,None,1.8,1.0,Renovated,2.04,43290886
+376,3339,5412,2,1,1,7,Rural,24.92,Unfurnished,Independent House,1,North,Municipal,Partial,4.2,1.3,Renovated,4.25,12089651
+377,835,6554,4,4,2,20,Urban,9.48,Fully-Furnished,Villa,1,South,Borewell,Full,4.4,4.5,Recently Renovated,1.74,13379995
+378,1395,2665,4,4,2,18,Rural,13.87,Unfurnished,Villa,0,South,Municipal,None,2.2,1.3,Not Renovated,3.8,7141598
+379,4046,3712,5,1,3,5,Suburban,1.64,Unfurnished,Villa,1,East,Municipal,Partial,4.8,3.8,Recently Renovated,0.92,37220315
+380,1351,6037,5,2,2,19,Rural,9.73,Unfurnished,Apartment,3,West,Borewell,None,1.2,4.7,Not Renovated,4.78,4826117
+381,2187,3653,4,3,1,24,Rural,15.58,Unfurnished,Villa,0,South,Municipal,Full,1.6,2.1,Renovated,3.3,9429000
+382,2431,6828,4,3,2,28,Urban,2.63,Fully-Furnished,Independent House,0,North,Borewell,None,3.2,2.5,Not Renovated,3.68,24158195
+383,4246,5710,4,1,1,18,Urban,15.24,Semi-Furnished,Apartment,3,North,Borewell,Full,3.3,3.3,Not Renovated,1.84,30629806
+384,2927,7171,2,3,2,3,Rural,27.89,Semi-Furnished,Independent House,0,South,Borewell,None,3.6,4.5,Not Renovated,2.35,12765918
+385,2068,6796,4,2,3,22,Urban,4.06,Semi-Furnished,Independent House,1,South,Municipal,Partial,1.1,4.8,Recently Renovated,1.51,20108052
+386,4500,7159,3,2,1,6,Urban,23.17,Fully-Furnished,Apartment,2,South,Borewell,Full,4.8,4.0,Not Renovated,4.7,36025772
+387,3238,7891,1,1,2,27,Urban,12.88,Unfurnished,Independent House,3,East,Municipal,Full,1.2,1.3,Not Renovated,2.7,21524225
+388,3998,6958,4,2,2,27,Rural,20.0,Semi-Furnished,Independent House,1,North,Borewell,Full,1.6,3.7,Not Renovated,3.34,17498474
+389,4413,4028,1,4,2,3,Urban,8.55,Fully-Furnished,Apartment,3,East,Borewell,None,1.1,2.6,Recently Renovated,3.8,36873561
+390,1566,4519,2,1,1,21,Rural,5.63,Unfurnished,Independent House,3,East,Both,None,3.3,2.9,Recently Renovated,2.17,6176252
+391,4880,4028,1,2,1,11,Urban,5.65,Semi-Furnished,Villa,0,West,Both,Partial,4.7,1.2,Recently Renovated,3.74,52766550
+392,2944,6990,2,1,1,12,Suburban,3.04,Unfurnished,Independent House,0,North,Both,Full,3.7,1.8,Not Renovated,3.54,19060673
+393,4607,3171,3,3,3,2,Urban,6.38,Semi-Furnished,Villa,1,North,Municipal,Full,4.3,4.2,Renovated,3.68,54332996
+394,3873,3691,2,2,3,21,Urban,20.26,Semi-Furnished,Independent House,3,South,Municipal,None,1.1,2.8,Renovated,2.7,29822656
+395,4469,4556,2,4,1,11,Rural,26.57,Semi-Furnished,Apartment,0,South,Borewell,None,3.2,2.2,Renovated,2.22,16743258
+396,3046,5025,5,2,2,1,Rural,24.61,Unfurnished,Apartment,0,West,Borewell,Partial,2.8,2.5,Not Renovated,1.5,11140198
+397,1253,894,4,1,3,23,Urban,20.87,Fully-Furnished,Independent House,3,East,Borewell,Partial,3.0,4.4,Renovated,4.21,8883831
+398,2582,3474,4,1,1,1,Suburban,4.2,Unfurnished,Apartment,1,South,Borewell,None,1.3,4.0,Renovated,3.24,15097061
+399,3274,7698,3,2,2,26,Urban,9.39,Semi-Furnished,Independent House,1,South,Municipal,Full,3.7,2.1,Renovated,2.5,28392998
+400,3396,2755,3,4,3,22,Urban,9.98,Unfurnished,Apartment,3,North,Borewell,Partial,3.0,1.5,Not Renovated,4.75,22029765
+401,4685,1593,4,4,2,8,Suburban,8.25,Fully-Furnished,Villa,1,North,Borewell,None,4.1,2.0,Renovated,0.72,50427997
+402,1275,2634,5,4,2,0,Rural,15.94,Unfurnished,Independent House,0,South,Both,None,2.9,4.7,Renovated,4.33,6214615
+403,2125,2916,4,1,2,7,Urban,16.53,Fully-Furnished,Villa,3,North,Borewell,Full,1.6,3.3,Not Renovated,4.99,24458893
+404,3569,6579,5,2,2,22,Rural,11.35,Fully-Furnished,Villa,0,West,Borewell,None,3.6,3.1,Recently Renovated,4.49,22593089
+405,917,4906,3,3,3,5,Rural,11.26,Unfurnished,Independent House,2,South,Borewell,None,1.7,3.4,Renovated,4.15,3454396
+406,614,4125,1,1,3,5,Suburban,25.03,Semi-Furnished,Villa,2,North,Municipal,Partial,4.5,2.5,Recently Renovated,2.18,2418088
+407,1116,6761,3,4,3,21,Suburban,23.89,Fully-Furnished,Independent House,1,West,Both,None,3.5,4.2,Renovated,1.54,7811638
+408,4474,3719,3,2,1,24,Rural,9.93,Unfurnished,Villa,2,North,Borewell,None,1.6,3.1,Not Renovated,3.81,23418524
+409,3767,3397,2,4,3,17,Urban,27.5,Fully-Furnished,Independent House,0,North,Borewell,Partial,4.8,1.5,Recently Renovated,1.87,34821021
+410,1325,4005,2,3,2,16,Rural,28.63,Semi-Furnished,Independent House,2,North,Both,Full,3.1,1.5,Recently Renovated,1.29,4169015
+411,2016,5607,2,4,3,28,Urban,10.48,Unfurnished,Apartment,0,South,Borewell,Full,1.3,3.1,Recently Renovated,4.04,11160048
+412,3646,6966,2,4,2,11,Urban,11.28,Unfurnished,Independent House,1,East,Municipal,Partial,3.5,4.7,Recently Renovated,1.91,30206488
+413,912,1614,5,3,1,5,Suburban,15.66,Unfurnished,Independent House,1,North,Borewell,Partial,2.0,2.2,Renovated,4.61,4806565
+414,1228,1145,4,2,2,25,Urban,28.29,Semi-Furnished,Villa,0,West,Municipal,Full,4.2,4.5,Renovated,4.28,8968803
+415,3848,3149,1,1,2,26,Urban,26.41,Fully-Furnished,Independent House,2,South,Municipal,Full,4.3,4.1,Recently Renovated,4.31,31428943
+416,3308,1162,3,2,2,7,Rural,3.97,Unfurnished,Apartment,1,South,Borewell,Full,4.9,2.0,Renovated,3.97,12229327
+417,1175,3243,5,3,1,18,Suburban,12.39,Fully-Furnished,Villa,3,West,Both,Full,3.0,1.1,Recently Renovated,4.46,11640934
+418,3965,3065,1,4,3,27,Urban,17.05,Fully-Furnished,Villa,1,North,Municipal,Full,2.8,1.4,Recently Renovated,4.13,43206905
+419,3004,2988,5,2,3,9,Urban,15.59,Semi-Furnished,Apartment,2,East,Both,Partial,4.0,3.9,Not Renovated,3.21,22233048
+420,3467,3805,5,1,1,0,Suburban,6.62,Unfurnished,Villa,3,North,Borewell,None,1.5,1.8,Recently Renovated,1.83,30220085
+421,3286,4081,3,3,2,24,Rural,25.91,Fully-Furnished,Villa,2,West,Municipal,Full,3.2,2.5,Renovated,4.5,18824190
+422,1622,1784,4,2,3,28,Suburban,20.63,Unfurnished,Villa,0,South,Borewell,Full,3.2,3.0,Recently Renovated,4.28,9720149
+423,4579,7936,2,1,1,12,Suburban,25.3,Unfurnished,Villa,3,East,Both,None,1.4,3.9,Not Renovated,2.63,33149958
+424,2071,2439,4,3,3,16,Urban,25.9,Semi-Furnished,Apartment,2,South,Borewell,None,2.7,1.5,Renovated,0.68,14128713
+425,2643,1627,3,1,1,2,Urban,22.7,Unfurnished,Apartment,3,West,Borewell,None,4.4,2.6,Not Renovated,3.37,16700409
+426,2187,3530,3,3,2,7,Rural,13.74,Unfurnished,Villa,2,North,Municipal,None,4.4,2.9,Not Renovated,0.73,12825984
+427,4632,4331,3,4,3,13,Urban,18.71,Fully-Furnished,Villa,3,East,Borewell,None,1.4,3.2,Recently Renovated,4.67,55746260
+428,4351,7947,1,2,1,2,Urban,5.65,Semi-Furnished,Apartment,2,South,Borewell,None,1.4,4.3,Not Renovated,4.83,31817629
+429,3940,5251,4,1,3,15,Suburban,20.54,Unfurnished,Apartment,0,South,Borewell,Partial,2.1,1.7,Not Renovated,1.35,20976582
+430,4266,7951,4,3,3,12,Urban,6.2,Fully-Furnished,Apartment,3,South,Municipal,None,4.5,4.2,Renovated,3.54,36811234
+431,2826,6243,5,1,3,19,Rural,21.12,Semi-Furnished,Villa,3,North,Both,None,1.5,3.8,Not Renovated,0.92,16373600
+432,3414,3735,5,1,3,23,Suburban,7.66,Semi-Furnished,Villa,3,East,Both,Partial,3.9,3.2,Recently Renovated,3.78,30863853
+433,4452,4676,5,2,1,16,Rural,4.41,Fully-Furnished,Independent House,3,North,Borewell,None,1.4,3.8,Recently Renovated,2.06,25260544
+434,1095,6759,3,4,2,12,Suburban,5.79,Fully-Furnished,Apartment,0,North,Municipal,Full,3.5,2.6,Recently Renovated,3.56,8400264
+435,1228,926,4,1,1,28,Urban,1.06,Fully-Furnished,Villa,3,North,Borewell,Full,2.4,1.6,Not Renovated,2.18,15492223
+436,1865,3977,3,3,1,5,Suburban,21.84,Fully-Furnished,Apartment,1,West,Both,None,4.2,3.7,Renovated,1.16,13002471
+437,4992,3856,1,3,1,16,Suburban,22.24,Fully-Furnished,Villa,0,West,Municipal,Partial,1.9,3.1,Recently Renovated,2.33,46174817
+438,1198,1403,5,4,2,13,Urban,15.93,Unfurnished,Apartment,1,West,Both,Full,3.6,3.6,Not Renovated,1.01,8963057
+439,895,4249,3,3,3,16,Urban,5.68,Unfurnished,Villa,3,East,Both,Partial,1.9,2.4,Recently Renovated,3.1,9704116
+440,4671,6824,3,4,3,29,Rural,3.42,Semi-Furnished,Independent House,2,North,Municipal,Full,3.9,4.6,Recently Renovated,0.68,23948879
+441,4860,5909,1,3,3,7,Rural,1.55,Unfurnished,Independent House,1,North,Municipal,None,4.5,3.3,Renovated,2.87,20887935
+442,3002,4946,2,2,2,10,Urban,5.81,Unfurnished,Apartment,3,West,Borewell,Partial,1.5,1.3,Recently Renovated,4.49,20545045
+443,2319,7996,4,1,3,19,Urban,26.83,Unfurnished,Villa,1,North,Borewell,Partial,4.5,2.8,Renovated,4.27,18290509
+444,1217,4333,2,2,2,27,Urban,8.0,Fully-Furnished,Villa,3,North,Both,Partial,3.4,4.0,Not Renovated,4.47,11958132
+445,3282,4167,5,1,3,0,Suburban,11.27,Semi-Furnished,Apartment,3,South,Municipal,Full,1.5,4.2,Recently Renovated,4.65,19363675
+446,4077,4168,3,1,3,25,Suburban,4.06,Semi-Furnished,Villa,3,North,Municipal,Full,2.7,3.0,Not Renovated,0.97,36356194
+447,643,4597,1,1,1,6,Suburban,7.45,Semi-Furnished,Apartment,2,South,Borewell,Full,1.6,4.6,Not Renovated,1.08,3220480
+448,3640,7722,1,2,2,20,Urban,16.06,Semi-Furnished,Villa,1,North,Both,None,3.8,2.1,Not Renovated,3.01,35788519
+449,4991,6326,4,1,1,20,Rural,18.62,Unfurnished,Apartment,0,East,Both,Full,4.0,2.6,Recently Renovated,4.52,16460124
+450,3438,2592,2,2,1,16,Urban,8.12,Unfurnished,Villa,0,West,Borewell,None,1.4,4.6,Renovated,4.88,33020477
+451,4136,3661,4,4,1,29,Suburban,2.67,Fully-Furnished,Apartment,0,South,Municipal,Partial,3.0,4.6,Recently Renovated,0.71,29749926
+452,3722,6532,3,3,2,9,Suburban,12.34,Semi-Furnished,Villa,0,West,Borewell,Partial,4.3,3.7,Not Renovated,2.1,34743918
+453,1667,4276,4,3,2,10,Urban,7.79,Unfurnished,Independent House,3,South,Borewell,None,4.7,4.4,Renovated,1.46,16743374
+454,3116,4217,1,1,3,21,Urban,7.37,Unfurnished,Villa,1,South,Borewell,Full,3.1,1.4,Not Renovated,3.9,28835305
+455,1562,2445,1,2,1,29,Suburban,28.84,Fully-Furnished,Apartment,1,South,Borewell,None,4.8,4.5,Renovated,3.38,5837691
+456,2656,7363,5,3,3,8,Suburban,18.87,Fully-Furnished,Independent House,2,East,Municipal,Partial,3.1,2.3,Recently Renovated,1.04,21215809
+457,3482,2005,5,2,1,8,Suburban,17.15,Fully-Furnished,Villa,1,North,Borewell,Partial,2.6,1.7,Renovated,2.68,33970342
+458,3794,3830,3,2,2,23,Urban,13.06,Unfurnished,Independent House,1,South,Municipal,None,4.4,2.0,Recently Renovated,3.58,29490664
+459,1656,3672,2,1,2,4,Suburban,13.44,Unfurnished,Villa,1,East,Borewell,Full,3.0,2.7,Not Renovated,4.01,12445877
+460,1232,3872,4,3,2,16,Suburban,16.69,Fully-Furnished,Independent House,2,South,Both,Full,2.9,2.0,Renovated,0.59,9469247
+461,4830,2654,3,1,1,8,Rural,21.2,Semi-Furnished,Apartment,0,North,Municipal,None,3.0,2.3,Not Renovated,4.51,17001951
+462,1453,4821,5,1,2,16,Urban,21.36,Fully-Furnished,Villa,1,South,Both,None,4.4,1.5,Renovated,3.06,15030955
+463,3039,5462,4,3,1,23,Rural,5.98,Fully-Furnished,Villa,2,East,Borewell,Full,4.3,2.2,Recently Renovated,4.15,20797097
+464,3824,7314,5,3,3,20,Rural,15.5,Fully-Furnished,Apartment,2,North,Borewell,Partial,2.6,3.3,Renovated,4.14,16804280
+465,3801,5831,4,4,1,18,Suburban,12.95,Fully-Furnished,Independent House,3,East,Borewell,None,2.3,2.8,Renovated,1.35,31698165
+466,2042,6830,2,4,3,26,Urban,26.25,Unfurnished,Apartment,2,North,Municipal,Full,3.0,2.4,Recently Renovated,1.0,10577822
+467,1691,3508,3,2,1,6,Suburban,19.31,Semi-Furnished,Apartment,0,North,Both,Full,3.3,4.0,Recently Renovated,3.75,8990601
+468,3493,4302,4,3,3,22,Urban,16.44,Fully-Furnished,Independent House,1,West,Municipal,Partial,2.0,4.6,Recently Renovated,1.2,35182285
+469,3181,7912,1,4,2,8,Rural,4.35,Semi-Furnished,Apartment,2,West,Municipal,Partial,4.2,4.0,Renovated,4.32,11983892
+470,1717,2132,1,2,3,6,Urban,18.56,Semi-Furnished,Villa,0,West,Borewell,Partial,2.9,2.3,Not Renovated,3.77,15571788
+471,2040,1001,4,2,2,12,Suburban,4.4,Semi-Furnished,Villa,2,North,Both,Partial,2.3,4.0,Renovated,4.29,19052745
+472,3736,4307,4,2,2,10,Suburban,10.78,Fully-Furnished,Villa,2,South,Borewell,Partial,1.4,1.6,Renovated,1.85,38304879
+473,2886,7256,4,4,3,13,Suburban,5.14,Unfurnished,Apartment,2,East,Municipal,None,2.0,1.5,Not Renovated,1.92,16959103
+474,4219,5012,1,3,1,18,Urban,21.07,Fully-Furnished,Villa,2,East,Borewell,Full,4.8,2.4,Recently Renovated,3.52,47977626
+475,1888,5832,1,1,1,10,Rural,6.98,Semi-Furnished,Villa,2,East,Both,None,2.2,4.2,Renovated,0.64,10971612
+476,2356,1374,4,2,1,12,Rural,12.36,Semi-Furnished,Villa,0,West,Borewell,None,1.7,2.0,Not Renovated,3.77,12190252
+477,1865,7187,5,4,1,13,Urban,26.97,Unfurnished,Villa,1,North,Both,None,2.8,1.3,Recently Renovated,4.26,16281370
+478,999,1336,5,4,1,12,Suburban,6.93,Fully-Furnished,Villa,1,West,Both,None,2.2,1.5,Recently Renovated,2.37,12581511
+479,2180,2425,2,1,2,0,Rural,15.73,Semi-Furnished,Villa,1,South,Borewell,None,1.1,4.4,Renovated,3.94,12502696
+480,1010,2922,3,1,1,7,Suburban,13.16,Unfurnished,Apartment,1,North,Municipal,Partial,2.3,3.5,Recently Renovated,1.29,5183499
+481,4812,1185,5,4,2,11,Urban,1.53,Semi-Furnished,Villa,0,East,Borewell,Partial,3.2,2.0,Recently Renovated,1.95,58820142
+482,1824,4081,1,3,2,18,Suburban,23.99,Unfurnished,Villa,3,West,Municipal,Full,3.2,3.2,Not Renovated,4.88,9719636
+483,1655,1274,5,1,2,11,Rural,3.0,Unfurnished,Independent House,3,West,Municipal,None,2.4,3.1,Not Renovated,4.94,6367445
+484,2327,1217,2,4,3,7,Rural,14.75,Fully-Furnished,Apartment,0,South,Borewell,Full,2.8,3.6,Recently Renovated,2.81,10289243
+485,3641,7290,2,1,3,7,Suburban,17.26,Semi-Furnished,Apartment,0,South,Municipal,Partial,4.9,1.9,Not Renovated,4.7,19690239
+486,3986,4400,3,3,2,28,Urban,19.22,Fully-Furnished,Apartment,2,West,Municipal,Partial,2.5,4.5,Recently Renovated,2.85,30337089
+487,2310,7583,5,2,3,20,Suburban,20.97,Semi-Furnished,Apartment,2,South,Borewell,Partial,2.0,2.2,Renovated,1.81,12857052
+488,3423,5834,1,1,1,12,Urban,8.34,Fully-Furnished,Villa,2,East,Borewell,None,2.0,3.8,Not Renovated,1.7,42469592
+489,2714,1754,1,3,1,11,Suburban,1.29,Semi-Furnished,Villa,1,South,Borewell,None,2.8,1.1,Recently Renovated,4.68,23911710
+490,4686,5771,4,4,2,28,Rural,21.98,Fully-Furnished,Independent House,2,South,Municipal,Partial,4.0,2.5,Recently Renovated,1.28,24068340
+491,1213,5658,1,1,1,15,Urban,16.53,Unfurnished,Independent House,3,West,Both,Full,1.8,2.4,Not Renovated,3.11,6316054
+492,4102,6098,3,1,2,0,Urban,25.25,Semi-Furnished,Apartment,1,West,Municipal,Full,3.8,3.2,Not Renovated,3.0,28363736
+493,4634,2005,3,4,2,12,Urban,24.82,Semi-Furnished,Independent House,2,North,Both,Partial,1.1,1.3,Renovated,3.83,37952777
+494,4022,5559,1,2,1,25,Rural,25.46,Unfurnished,Independent House,1,North,Borewell,Full,2.7,4.2,Recently Renovated,2.75,13977834
+495,4768,4920,1,4,3,6,Suburban,15.07,Fully-Furnished,Apartment,3,West,Both,Partial,4.1,1.9,Renovated,1.73,31332460
+496,1743,2790,4,1,1,27,Rural,10.68,Semi-Furnished,Apartment,2,South,Borewell,Full,2.4,3.7,Renovated,1.26,6096569
+497,4209,6099,1,4,1,25,Urban,23.96,Semi-Furnished,Independent House,3,South,Borewell,Partial,3.3,4.2,Renovated,3.29,33406967
+498,1581,5605,4,3,2,4,Suburban,14.09,Fully-Furnished,Villa,3,North,Both,Full,1.8,3.2,Not Renovated,3.74,16074630
+499,955,4372,4,4,2,7,Rural,6.32,Unfurnished,Independent House,3,North,Borewell,None,4.0,4.0,Renovated,3.06,6232355
+500,1394,6775,1,1,2,24,Urban,25.79,Fully-Furnished,Independent House,2,North,Both,Partial,1.2,3.6,Not Renovated,3.82,6796154
+501,1884,6080,2,4,2,26,Urban,26.59,Fully-Furnished,Villa,0,East,Borewell,Partial,4.4,2.4,Not Renovated,1.14,18271640
+502,2458,7120,2,2,3,13,Rural,14.52,Fully-Furnished,Villa,2,East,Municipal,Full,1.8,4.2,Renovated,4.47,15075232
+503,3572,5180,4,4,3,22,Rural,3.2,Semi-Furnished,Apartment,3,North,Municipal,Partial,4.5,2.2,Renovated,3.12,14728616
+504,2496,4958,1,2,3,29,Rural,12.25,Unfurnished,Apartment,2,South,Borewell,Partial,2.4,3.3,Recently Renovated,1.07,8075790
+505,4785,5898,2,3,2,12,Urban,24.3,Unfurnished,Independent House,3,North,Borewell,Partial,3.9,4.0,Renovated,2.58,36878586
+506,1004,5557,1,2,2,14,Rural,27.15,Fully-Furnished,Villa,0,East,Both,None,2.3,2.5,Recently Renovated,4.3,2939357
+507,1714,3513,1,4,2,22,Urban,6.9,Semi-Furnished,Apartment,1,South,Municipal,None,4.6,2.2,Renovated,4.54,11764860
+508,2031,3003,1,1,3,16,Rural,2.94,Fully-Furnished,Independent House,0,East,Both,Full,1.5,2.8,Renovated,1.69,11322261
+509,3940,6388,5,2,2,14,Urban,26.44,Semi-Furnished,Villa,0,South,Borewell,None,1.7,4.3,Renovated,3.7,40605232
+510,1323,3920,1,3,1,19,Urban,12.29,Semi-Furnished,Independent House,1,East,Borewell,Full,3.0,4.7,Renovated,0.95,10954556
+511,1428,1766,5,2,1,17,Suburban,16.71,Semi-Furnished,Apartment,2,South,Both,None,1.3,3.2,Recently Renovated,0.65,8104022
+512,633,5744,4,2,2,17,Rural,29.07,Semi-Furnished,Apartment,1,South,Borewell,Full,1.8,3.6,Recently Renovated,3.02,379105
+513,2605,6003,2,2,1,1,Rural,2.93,Unfurnished,Villa,2,South,Municipal,None,4.8,4.6,Renovated,3.63,15720541
+514,4127,4232,2,3,1,3,Urban,19.8,Semi-Furnished,Independent House,2,South,Both,None,4.9,1.4,Renovated,4.08,35152808
+515,2352,1488,2,4,3,29,Urban,3.15,Semi-Furnished,Villa,3,West,Municipal,Full,2.5,1.9,Recently Renovated,2.03,25910012
+516,4675,5043,2,2,2,0,Urban,11.89,Fully-Furnished,Apartment,3,East,Municipal,Partial,4.7,3.8,Not Renovated,0.53,41309435
+517,3433,4501,2,2,2,3,Suburban,24.31,Fully-Furnished,Apartment,1,East,Municipal,Partial,3.2,4.3,Not Renovated,2.66,21625550
+518,3784,1141,2,1,3,17,Suburban,13.57,Unfurnished,Independent House,0,West,Both,None,2.1,4.4,Not Renovated,0.57,24550647
+519,4798,7419,2,3,1,4,Urban,29.92,Fully-Furnished,Independent House,1,South,Borewell,Full,3.8,2.7,Recently Renovated,0.91,45435767
+520,3311,5982,4,2,1,18,Rural,17.21,Semi-Furnished,Independent House,2,South,Municipal,Partial,3.6,1.4,Recently Renovated,1.97,15203426
+521,1750,2524,1,3,2,14,Rural,10.31,Fully-Furnished,Villa,3,East,Municipal,Full,5.0,2.8,Not Renovated,2.47,11340153
+522,4012,6279,3,2,1,27,Suburban,7.38,Unfurnished,Independent House,1,West,Municipal,Partial,2.1,1.9,Not Renovated,1.76,23907343
+523,1756,7504,5,4,3,7,Suburban,11.17,Fully-Furnished,Independent House,1,South,Borewell,Full,3.7,2.2,Renovated,3.12,15977263
+524,3876,5222,3,4,3,19,Urban,11.8,Fully-Furnished,Apartment,3,South,Borewell,None,1.2,4.1,Recently Renovated,0.75,32408001
+525,3986,2592,3,2,2,16,Rural,2.99,Unfurnished,Apartment,3,South,Both,Full,1.5,1.3,Recently Renovated,1.15,14597788
+526,4084,2559,1,4,3,0,Urban,11.72,Unfurnished,Independent House,3,North,Borewell,Partial,1.0,4.3,Not Renovated,3.63,32829598
+527,1896,4012,1,2,3,11,Suburban,14.46,Semi-Furnished,Independent House,2,West,Both,None,5.0,2.7,Not Renovated,1.14,12994566
+528,4137,1789,1,4,2,25,Rural,21.96,Fully-Furnished,Apartment,3,South,Both,Full,4.2,3.4,Recently Renovated,3.38,16367410
+529,3830,3062,2,1,3,18,Rural,20.05,Semi-Furnished,Independent House,0,North,Both,Partial,4.1,1.4,Renovated,0.75,16443181
+530,3203,3282,4,1,3,14,Suburban,21.55,Fully-Furnished,Villa,1,West,Both,None,3.0,2.3,Not Renovated,2.33,30091971
+531,970,1751,2,1,3,8,Urban,1.24,Fully-Furnished,Villa,3,South,Both,Full,2.2,1.4,Recently Renovated,1.3,13317658
+532,1853,1522,4,3,1,6,Urban,7.31,Semi-Furnished,Villa,3,East,Municipal,Partial,1.6,4.8,Recently Renovated,0.99,23151386
+533,3283,4189,4,3,2,1,Rural,20.19,Fully-Furnished,Independent House,2,North,Borewell,Full,2.1,4.2,Renovated,3.05,17734715
+534,3331,2879,3,1,2,28,Suburban,15.04,Fully-Furnished,Apartment,2,North,Municipal,Full,2.5,2.8,Renovated,4.68,19976174
+535,857,3517,3,3,2,8,Rural,1.15,Fully-Furnished,Independent House,1,South,Both,None,4.0,1.9,Not Renovated,0.75,6967990
+536,3519,3132,4,4,1,9,Suburban,24.33,Unfurnished,Independent House,0,South,Borewell,None,3.2,4.7,Not Renovated,2.4,22431502
+537,1167,4176,4,2,1,1,Urban,23.41,Semi-Furnished,Apartment,1,North,Municipal,Partial,1.3,2.4,Not Renovated,3.68,7567697
+538,4968,5324,2,2,2,18,Suburban,16.9,Unfurnished,Apartment,3,East,Municipal,None,1.1,1.6,Recently Renovated,2.58,25269408
+539,1645,2300,2,2,1,10,Urban,2.93,Semi-Furnished,Apartment,0,East,Both,Partial,1.4,3.3,Not Renovated,4.13,12027217
+540,4685,1085,3,1,2,12,Suburban,23.23,Semi-Furnished,Villa,0,West,Municipal,Full,2.6,4.8,Recently Renovated,1.31,39651490
+541,4219,4295,1,3,1,9,Rural,17.93,Fully-Furnished,Independent House,0,South,Municipal,Full,4.7,1.0,Not Renovated,4.82,21149430
+542,3245,7986,4,4,3,13,Urban,23.68,Semi-Furnished,Apartment,0,East,Municipal,Partial,3.5,2.0,Renovated,2.23,22897399
+543,1039,2865,2,4,3,17,Rural,22.8,Unfurnished,Independent House,1,West,Municipal,Full,4.2,4.8,Renovated,2.04,4160883
+544,3279,1568,3,1,2,18,Rural,24.29,Unfurnished,Villa,2,East,Municipal,None,2.9,1.7,Recently Renovated,4.44,14656929
+545,4636,7533,2,4,1,21,Urban,16.02,Unfurnished,Villa,2,South,Both,Full,2.4,1.5,Renovated,3.04,43719360
+546,4275,6290,4,4,1,8,Urban,5.07,Semi-Furnished,Apartment,3,West,Both,None,1.4,3.3,Recently Renovated,2.82,32318854
+547,3008,3857,4,4,3,24,Rural,20.46,Unfurnished,Apartment,2,West,Municipal,Partial,4.5,4.4,Recently Renovated,3.77,9792048
+548,3279,5089,5,4,3,6,Rural,18.99,Semi-Furnished,Independent House,2,West,Both,Partial,4.1,2.9,Renovated,3.11,15390851
+549,1424,7445,1,3,1,27,Rural,22.53,Unfurnished,Apartment,2,East,Both,Full,1.7,5.0,Recently Renovated,1.23,3431001
+550,3456,5883,5,4,1,2,Rural,5.93,Unfurnished,Independent House,2,South,Borewell,Full,3.0,3.7,Renovated,3.53,16026275
+551,2081,6032,3,2,1,19,Urban,6.65,Semi-Furnished,Apartment,3,West,Municipal,None,2.9,1.3,Not Renovated,1.1,15848167
+552,3824,2961,2,1,1,5,Urban,26.82,Unfurnished,Independent House,1,North,Both,None,3.5,5.0,Not Renovated,4.13,28229218
+553,4985,4093,3,3,1,26,Rural,22.75,Fully-Furnished,Independent House,0,South,Both,Full,4.8,2.6,Renovated,4.95,24463821
+554,755,6597,4,4,1,20,Suburban,27.34,Semi-Furnished,Independent House,2,North,Municipal,Full,3.3,2.1,Renovated,2.2,2629263
+555,2338,1746,5,3,2,1,Suburban,23.0,Semi-Furnished,Independent House,1,North,Borewell,Partial,3.2,3.2,Renovated,2.5,16989040
+556,2444,5726,5,4,1,28,Urban,18.32,Semi-Furnished,Villa,2,West,Municipal,Partial,1.2,2.2,Renovated,0.71,26607537
+557,509,6816,5,2,3,5,Rural,19.97,Fully-Furnished,Independent House,2,West,Borewell,Partial,1.3,1.3,Not Renovated,0.56,3410240
+558,3371,4135,3,1,2,2,Rural,26.78,Semi-Furnished,Apartment,0,East,Municipal,Full,1.7,1.0,Recently Renovated,4.65,10681080
+559,1297,7868,4,4,1,15,Urban,17.79,Unfurnished,Villa,0,East,Municipal,Full,1.1,2.8,Recently Renovated,1.08,11861534
+560,1515,4950,2,4,3,29,Suburban,19.34,Unfurnished,Villa,0,East,Municipal,Full,4.0,4.3,Not Renovated,2.51,8955731
+561,2324,5695,2,4,2,7,Suburban,5.54,Unfurnished,Independent House,2,South,Municipal,Partial,3.9,3.3,Recently Renovated,4.17,15416950
+562,4969,5673,3,4,3,1,Suburban,14.74,Semi-Furnished,Villa,2,East,Borewell,Full,1.5,5.0,Not Renovated,4.5,44599566
+563,3636,2281,5,1,1,16,Urban,21.78,Unfurnished,Independent House,2,North,Borewell,None,4.3,2.1,Recently Renovated,2.84,27465052
+564,2693,2701,1,1,1,8,Suburban,8.86,Semi-Furnished,Apartment,0,East,Both,Full,1.6,2.1,Renovated,3.04,14386444
+565,723,7105,3,2,1,29,Urban,6.87,Unfurnished,Independent House,3,West,Municipal,Full,2.2,1.6,Renovated,3.51,4545254
+566,4658,4251,3,1,1,11,Urban,10.1,Fully-Furnished,Villa,1,East,Borewell,Full,2.0,1.7,Renovated,4.83,56624734
+567,4425,4864,4,4,2,2,Rural,8.0,Fully-Furnished,Apartment,3,South,Borewell,Full,2.5,2.1,Not Renovated,3.21,20145148
+568,4500,7030,2,2,2,10,Suburban,7.23,Fully-Furnished,Independent House,2,South,Borewell,Full,2.0,4.2,Not Renovated,3.02,36899462
+569,2133,854,3,2,3,0,Urban,13.32,Fully-Furnished,Apartment,2,North,Municipal,None,3.0,4.6,Recently Renovated,0.57,19855204
+570,2652,2623,3,2,1,22,Suburban,27.33,Semi-Furnished,Apartment,3,South,Both,None,2.6,4.9,Recently Renovated,0.86,13737371
+571,1010,6097,5,4,3,12,Suburban,15.7,Unfurnished,Villa,2,East,Borewell,Full,4.9,1.9,Recently Renovated,3.1,8747162
+572,884,4262,5,3,2,14,Rural,6.45,Fully-Furnished,Apartment,1,West,Municipal,Partial,1.2,4.5,Not Renovated,4.71,4417347
+573,904,3879,1,4,1,25,Suburban,3.23,Semi-Furnished,Villa,2,South,Borewell,Full,1.6,2.3,Recently Renovated,4.4,5411019
+574,2500,1632,4,1,1,4,Rural,21.19,Fully-Furnished,Apartment,1,North,Borewell,Full,1.2,1.5,Renovated,4.92,10140493
+575,3256,5208,1,1,2,20,Urban,12.1,Fully-Furnished,Independent House,3,East,Both,Full,3.5,4.5,Recently Renovated,2.88,29720286
+576,2168,3606,5,4,2,29,Suburban,24.83,Semi-Furnished,Apartment,3,North,Borewell,Partial,1.2,3.5,Renovated,4.05,10009845
+577,1960,6754,2,4,2,16,Urban,20.13,Semi-Furnished,Independent House,2,South,Borewell,Partial,4.3,1.7,Not Renovated,4.28,14209929
+578,4136,6903,5,2,2,24,Suburban,24.09,Unfurnished,Independent House,1,South,Municipal,Partial,3.0,2.7,Renovated,3.42,25370120
+579,3224,6902,4,4,2,22,Urban,8.89,Unfurnished,Apartment,2,North,Municipal,None,3.1,2.1,Renovated,2.02,21913647
+580,4678,3290,5,2,1,23,Suburban,21.08,Fully-Furnished,Independent House,0,East,Both,Partial,3.2,3.9,Renovated,2.61,36685330
+581,2548,6686,4,1,2,24,Suburban,8.66,Fully-Furnished,Apartment,0,South,Municipal,None,1.7,2.8,Not Renovated,4.36,15766503
+582,4646,1127,4,2,1,5,Suburban,28.23,Unfurnished,Apartment,0,West,Municipal,None,1.8,5.0,Not Renovated,1.84,23508645
+583,1216,7704,4,4,1,27,Suburban,19.45,Unfurnished,Independent House,0,South,Both,Partial,2.3,1.2,Not Renovated,4.66,4871759
+584,2323,4110,4,1,2,20,Suburban,10.41,Semi-Furnished,Independent House,2,East,Borewell,Partial,3.4,2.4,Not Renovated,1.53,16007899
+585,2581,4100,4,3,2,21,Suburban,8.82,Unfurnished,Villa,0,South,Both,Partial,1.8,2.9,Recently Renovated,3.87,20350469
+586,3919,7522,2,2,1,10,Suburban,6.54,Unfurnished,Independent House,1,North,Municipal,None,1.5,3.0,Not Renovated,3.34,25354708
+587,2074,4475,1,1,2,17,Suburban,21.14,Fully-Furnished,Villa,3,South,Both,Full,4.9,2.3,Renovated,3.87,15753004
+588,749,3854,3,2,2,3,Suburban,7.34,Unfurnished,Independent House,3,South,Borewell,Partial,1.1,3.9,Not Renovated,2.47,5398514
+589,1173,6183,1,1,2,2,Urban,18.26,Fully-Furnished,Apartment,0,East,Both,Partial,4.2,4.5,Recently Renovated,4.7,7214109
+590,2665,2943,4,1,3,12,Rural,8.67,Unfurnished,Independent House,0,North,Municipal,Partial,4.2,4.8,Recently Renovated,3.35,11366018
+591,1270,6007,2,2,1,22,Suburban,20.2,Semi-Furnished,Apartment,0,East,Municipal,None,2.2,4.2,Recently Renovated,1.8,4732234
+592,4462,2111,5,3,3,8,Rural,24.63,Unfurnished,Apartment,2,South,Both,None,1.5,4.4,Renovated,3.37,16010014
+593,4863,3991,2,1,2,20,Suburban,23.56,Unfurnished,Apartment,3,West,Borewell,Full,1.6,3.2,Not Renovated,1.79,23247780
+594,2484,7757,4,1,3,5,Suburban,23.06,Unfurnished,Villa,0,South,Both,Partial,3.8,4.3,Not Renovated,1.82,19119062
+595,1577,3338,2,1,2,25,Urban,6.44,Fully-Furnished,Independent House,1,East,Borewell,None,3.6,2.2,Not Renovated,2.3,13946318
+596,735,4783,2,3,3,29,Urban,3.56,Semi-Furnished,Apartment,0,West,Borewell,Full,4.1,2.6,Renovated,4.34,4396396
+597,888,5347,4,3,2,27,Rural,21.27,Unfurnished,Apartment,3,East,Both,Partial,4.7,2.3,Renovated,2.75,2385537
+598,3537,6419,2,4,3,11,Urban,11.68,Fully-Furnished,Villa,0,East,Borewell,None,3.8,2.9,Recently Renovated,3.56,44206715
+599,2348,964,3,2,3,1,Urban,13.54,Semi-Furnished,Independent House,3,North,Municipal,Partial,1.6,2.1,Recently Renovated,2.26,20884329
+600,3314,5077,3,3,3,2,Rural,1.9,Fully-Furnished,Independent House,0,West,Both,Partial,2.0,4.8,Not Renovated,1.69,20702304
