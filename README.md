@@ -42,8 +42,8 @@ Model used: Linear Regression
  Model Performance
 Metric	Value
 R² Score	0.8688
-MAE	2,915,441
-RMSE	4,230,053
+MAE: 0.0122
+RMSE: 0.0181
 
  Visualization
 Price distribution plot
